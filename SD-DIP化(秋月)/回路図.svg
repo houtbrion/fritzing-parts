@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 227.36417 227.3642"
+   height="64.167229mm"
+   width="64.167221mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="AE-MICRO-SD-DIP_回路図(改造3).svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1139"
+     inkscape:window-height="871"
+     id="namedview31"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.76508705"
+     inkscape:cx="-102.70875"
+     inkscape:cy="110.14863"
+     inkscape:window-x="530"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4156"
+     transform="translate(23.670001,23.694195)">
+    <text
+       style="font-size:18px;font-family:DroidSans"
+       id="text5"
+       y="57.884293"
+       x="51.644417">Akizuki</text>
+    <text
+       style="font-size:18px;font-family:DroidSans"
+       id="text3200"
+       y="83.366409"
+       x="48.582314">microSD</text>
+    <text
+       style="font-size:18px;font-family:DroidSans"
+       id="text3206"
+       y="111.98421"
+       x="51.105217">DIP</text>
+    <line
+       x1="181.21709"
+       y1="151.79988"
+       x2="202.47707"
+       y2="151.79988"
+       id="connector9"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="91.200119"
+       y1="-22.477104"
+       x2="91.200119"
+       y2="-1.2170937"
+       id="connector3"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.49567461;stroke-linecap:round;stroke-linejoin:round"
+       id="rect135"
+       y="1.2478373"
+       x="1.2478297"
+       height="177.50433"
+       width="177.50433" />
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text3226"
+       y="49.105968"
+       x="9.0825806">CDA</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text3228"
+       y="140.8425"
+       x="6.5976896">CDB</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text3236"
+       y="21.496597"
+       x="75.389839">NC0</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text7"
+       y="17.902342"
+       x="141.47899">MISO</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text9"
+       y="44.90234"
+       x="145.93285">GND</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text3208"
+       y="71.902344"
+       x="148.15141">SCK</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text3222"
+       y="98.902344"
+       x="145.8838">VCC</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text3222-8"
+       y="125.90234"
+       x="141.53191">MOSI</text>
+    <text
+       x="155.56895"
+       y="152.90234"
+       id="text8774"
+       style="font-size:10px;font-family:DroidSans">SS</text>
+    <text
+       style="font-size:10px;font-family:DroidSans"
+       id="text8776"
+       y="172.94876"
+       x="79.649651">NC1</text>
+    <line
+       x1="181.21709"
+       y1="124.79988"
+       x2="202.47707"
+       y2="124.79988"
+       id="connector8"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="181.21709"
+       y1="97.799881"
+       x2="202.47707"
+       y2="97.799881"
+       id="connector7"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="181.21709"
+       y1="70.799881"
+       x2="202.47707"
+       y2="70.799881"
+       id="connector6"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="181.21709"
+       y1="43.799877"
+       x2="202.47707"
+       y2="43.799877"
+       id="connector5"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="181.21709"
+       y1="16.799877"
+       x2="202.47707"
+       y2="16.799877"
+       id="connector4"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="-22.452909"
+       y1="133.79988"
+       x2="-1.1929457"
+       y2="133.79988"
+       id="connector2"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="-22.452909"
+       y1="43.799877"
+       x2="-1.1929228"
+       y2="43.799877"
+       id="connector1"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="91.200119"
+       y1="181.1929"
+       x2="91.200119"
+       y2="202.45291"
+       id="connector10"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+</svg>
