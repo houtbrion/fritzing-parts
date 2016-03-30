@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25mm"
+   height="33mm"
+   viewBox="0 0 88.582677 116.92913"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="AE-XBee-REG-DIPブレッドボード.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.65"
+     inkscape:cx="47.950423"
+     inkscape:cy="60.112295"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1667"
+     inkscape:window-height="1007"
+     inkscape:window-x="1787"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-170.02914,-730.13469)">
+    <rect
+       style="fill:#007326;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.17630489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="88.406372"
+       height="116.75283"
+       x="170.11729"
+       y="730.22284" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="826.8642"
+       cx="193.2271"
+       id="connector9pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector8pin"
+       cx="193.2271"
+       cy="817.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="808.8642"
+       cx="193.2271"
+       id="connector7pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector6pin"
+       cx="193.2271"
+       cy="799.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="790.8642"
+       cx="193.2271"
+       id="connector5pin"
+       connectorname="SS"
+       inkscape:label="#connector5pin" />
+    <circle
+       connectorname="SS"
+       id="connector4pin"
+       cx="193.2271"
+       cy="781.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="772.8642"
+       cx="193.2271"
+       id="connector3pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector2pin"
+       cx="193.2271"
+       cy="763.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="754.8642"
+       cx="193.2271"
+       id="connector1pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector0pin"
+       cx="193.2271"
+       cy="745.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.78013813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 170.80918,760.68545 0.21987,69.99803"
+       id="path4240"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4242"
+       d="m 257.58669,760.68545 0.21987,69.99803"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.78013813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.81041324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 258.12353,831.04199 -87.59824,0.18959"
+       id="path4244"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.42774513px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 195.33128,731.40359 170.53135,761.1007"
+       id="path4246"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4248"
+       d="m 232.53135,731.40359 24.79993,29.69711"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.42774513px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4250"
+       d="m 232.6661,730.97891 -37.49412,0.31575"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.68424499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="177.61139"
+       y="842.37469"
+       id="text4260"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4170"
+         x="177.61139"
+         y="842.37469">AE-XBee-REG-DIP</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4172"
+         x="177.61139"
+         y="852.37469" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="202.27304"
+       y="777.8634"
+       id="text4167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4169"
+         x="202.27304"
+         y="777.8634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Xbee</tspan></text>
+    <circle
+       connectorname="SS"
+       id="connector19pin"
+       cx="238.2271"
+       cy="826.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="817.8642"
+       cx="238.2271"
+       id="connector18pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector17pin"
+       cx="238.2271"
+       cy="808.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="799.8642"
+       cx="238.2271"
+       id="connector16pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector15pin"
+       cx="238.2271"
+       cy="790.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="781.8642"
+       cx="238.2271"
+       id="connector14pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector13pin"
+       cx="238.2271"
+       cy="772.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="763.8642"
+       cx="238.2271"
+       id="connector12pin"
+       connectorname="SS" />
+    <circle
+       connectorname="SS"
+       id="connector11pin"
+       cx="238.2271"
+       cy="754.8642"
+       r="2.5650001"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#dcdc1f;stroke-width:1.52999997;stroke-opacity:1"
+       r="2.5650001"
+       cy="745.8642"
+       cx="238.2271"
+       id="connector10pin"
+       connectorname="SS" />
+  </g>
+</svg>
