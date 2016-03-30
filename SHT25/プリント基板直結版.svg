@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.9999998mm"
+   height="3mm"
+   viewBox="0 0 10.629921 10.629921"
+   id="svg4148"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="プリント基板直結版.svg">
+  <defs
+     id="defs4150" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.46"
+     inkscape:cx="9.8838672"
+     inkscape:cy="9.482089"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1116"
+     inkscape:window-height="804"
+     inkscape:window-x="3313"
+     inkscape:window-y="379"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4153">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-134.23573,-553.21084)">
+    <g
+       id="silkscreen">
+      <rect
+         y="553.26038"
+         x="134.28526"
+         height="10.530853"
+         width="10.530852"
+         id="rect4696"
+         style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.09906803;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0.71774614"
+         y="555.02869"
+         x="135.49236"
+         height="6.9490867"
+         width="2.697118"
+         id="rect4698"
+         style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.13752769;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.07000518;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4700"
+         width="0.99298698"
+         height="4.8906245"
+         x="136.32161"
+         y="556.06842"
+         ry="0.505135" />
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="100%"
+         id="text4714"
+         y="142.22479"
+         x="-561.97113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000024px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="142.22479"
+           x="-561.97113"
+           id="tspan4716"
+           sodipodi:role="line">SHT25</tspan></text>
+    </g>
+    <g
+       id="copper0">
+      <rect
+         ry="0"
+         y="562.42346"
+         x="135.29872"
+         height="1.4173229"
+         width="1.4173229"
+         id="connector0pin"
+         style="fill:#dcdc00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#dcdc00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector1pin"
+         width="1.4173229"
+         height="1.4173229"
+         x="138.84203"
+         y="562.42346"
+         ry="0" />
+      <rect
+         ry="0"
+         y="562.42346"
+         x="142.38533"
+         height="1.4173229"
+         width="1.4173229"
+         id="connector2pin"
+         style="fill:#dcdc00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#dcdc00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector3pin"
+         width="1.4173229"
+         height="1.4173229"
+         x="135.29872"
+         y="553.21082"
+         ry="0" />
+      <rect
+         ry="0"
+         y="553.21082"
+         x="138.84203"
+         height="1.4173229"
+         width="1.4173229"
+         id="connector4pin"
+         style="fill:#dcdc00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#dcdc00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector5pin"
+         width="1.4173229"
+         height="1.4173229"
+         x="142.38533"
+         y="553.21082"
+         ry="0" />
+    </g>
+  </g>
+</svg>
