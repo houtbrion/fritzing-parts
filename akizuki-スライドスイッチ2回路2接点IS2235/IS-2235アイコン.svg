@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.35433069in"
+   height="0.11181103in"
+   viewBox="0 0 25.511809 8.0503938"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="IS-2235アイコン.svg">
+  <metadata
+     id="metadata107">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs105" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1750"
+     inkscape:window-height="904"
+     id="namedview103"
+     showgrid="false"
+     inkscape:zoom="18.17"
+     inkscape:cx="16.306893"
+     inkscape:cy="4.4999998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     x="2.51834"
+     y="2.46934"
+     id="connector0terminal"
+     height="2.26231"
+     width="2.1643"
+     style="fill:none"
+     transform="translate(4.8472441,0.8503936)" />
+  <g
+     x="9.71834"
+     y="2.46934"
+     id="connector1terminal"
+     height="2.26231"
+     width="2.1643"
+     style="fill:none"
+     transform="translate(4.8472441,0.8503936)" />
+  <g
+     x="16.9183"
+     y="2.46934"
+     id="connector2terminal"
+     height="2.26231"
+     width="2.1643"
+     style="fill:none"
+     transform="translate(4.8472441,0.8503936)" />
+  <g
+     x="24.1183"
+     y="2.46934"
+     id="connector3terminal"
+     height="2.26231"
+     width="2.1643"
+     style="fill:none"
+     transform="translate(4.8472441,0.8503936)" />
+  <g
+     x="31.3183"
+     y="2.46934"
+     id="connector4terminal"
+     height="2.26231"
+     width="2.1643"
+     style="fill:none"
+     transform="translate(4.8472441,0.8503936)" />
+  <g
+     x="38.5183"
+     y="2.46934"
+     id="connector5terminal"
+     height="2.26231"
+     width="2.1643"
+     style="fill:none"
+     transform="translate(4.8472441,0.8503936)" />
+  <g
+     id="g4420"
+     transform="matrix(1.0034568,0,0,1.0034568,4.8640002,0.8255045)">
+    <rect
+       inkscape:label="#connector3pin"
+       style="fill:#dcdcdc;fill-opacity:1"
+       id="connector3pin"
+       width="1.4173229"
+       height="0.85039371"
+       y="6.3496065"
+       x="-1.5258789e-006" />
+    <rect
+       x="7.1999984"
+       y="6.3496065"
+       height="0.85039371"
+       width="1.4173229"
+       id="connector4pin"
+       style="fill:#dcdcdc;fill-opacity:1"
+       inkscape:label="#connector4pin" />
+    <rect
+       inkscape:label="#connector5pin"
+       style="fill:#dcdcdc;fill-opacity:1"
+       id="connector5pin"
+       width="1.4173229"
+       height="0.85039371"
+       y="6.3496065"
+       x="14.399999" />
+    <rect
+       x="-1.5258789e-006"
+       y="-0.85039359"
+       height="0.85039371"
+       width="1.4173229"
+       id="connector0pin"
+       style="fill:#dcdcdc;fill-opacity:1"
+       inkscape:label="#connector0pin" />
+    <rect
+       inkscape:label="#connector1pin"
+       style="fill:#dcdcdc;fill-opacity:1"
+       id="connector1pin"
+       width="1.4173229"
+       height="0.85039371"
+       y="-0.85039359"
+       x="7.1999984" />
+    <rect
+       x="14.399999"
+       y="-0.85039359"
+       height="0.85039371"
+       width="1.4173229"
+       id="connector2pin"
+       style="fill:#dcdcdc;fill-opacity:1"
+       inkscape:label="#connector2pin" />
+    <rect
+       y="9.5555158e-008"
+       x="-4.8472457"
+       height="6.3496065"
+       width="25.51181"
+       id="rect4414"
+       style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.56692916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4418"
+       width="13.039371"
+       height="4.8188977"
+       x="1.3208578"
+       y="0.79370081" />
+    <rect
+       y="1.0771656"
+       x="8.7176657"
+       height="4.2519684"
+       width="5.3858266"
+       id="rect4416"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.24in"
+   height="0.34in"
+   viewBox="0 0 17.28 24.48"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="IS-2235プリント基板.svg">
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs57" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1713"
+     inkscape:window-height="858"
+     id="namedview55"
+     showgrid="false"
+     inkscape:zoom="7.7124182"
+     inkscape:cx="-41.907204"
+     inkscape:cy="15.3"
+     inkscape:window-x="2599"
+     inkscape:window-y="353"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     partID="854848432"
+     id="g42"
+     inkscape:label="#silkscreen">
+    <g
+       id="silkscreen">
+      <line
+         y1="1.44"
+         y2="23.04"
+         x1="1.44"
+         x2="1.44"
+         id="line45"
+         stroke-width="0.72"
+         stroke="white" />
+      <line
+         y1="23.04"
+         y2="23.04"
+         x1="1.44"
+         x2="15.84"
+         id="line47"
+         stroke-width="0.72"
+         stroke="white" />
+      <line
+         y1="23.04"
+         y2="1.44"
+         x1="15.84"
+         x2="15.84"
+         id="line49"
+         stroke-width="0.72"
+         stroke="white" />
+      <line
+         y1="1.44"
+         y2="1.44"
+         x1="15.84"
+         x2="1.44"
+         id="line51"
+         stroke-width="0.72"
+         stroke="white" />
+      <line
+         y1="3.96"
+         y2="1.44"
+         x1="1.44"
+         x2="3.96"
+         id="line53"
+         stroke-width="0.36"
+         stroke="white" />
+      <!-- 120 -->
+    </g>
+  </g>
+  <g
+     id="copper0"
+     transform="translate(-0.10372841,0.10372886)">
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="5.04"
+       cx="5.04"
+       id="connector0pin" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="12.24"
+       cx="5.04"
+       id="connector1pin" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="19.440001"
+       cx="5.04"
+       id="connector2pin" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="5.04"
+       cx="5.04"
+       id="circle10" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="12.24"
+       cx="5.04"
+       id="circle12" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="19.440001"
+       cx="5.04"
+       id="circle14" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="19.440001"
+       cx="12.24"
+       id="connector3pin" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="12.24"
+       cx="12.24"
+       id="connector4pin" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       r="2.0880001"
+       cy="5.04"
+       cx="12.24"
+       id="connector5pin" />
+  </g>
+</svg>
