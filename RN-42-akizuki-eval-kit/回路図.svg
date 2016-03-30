@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="108.40962"
+   height="143.15907"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="回路図.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6715295"
+     inkscape:cx="33.326534"
+     inkscape:cy="66.480771"
+     inkscape:document-units="px"
+     inkscape:current-layer="schematic"
+     showgrid="false"
+     inkscape:window-width="1297"
+     inkscape:window-height="940"
+     inkscape:window-x="2771"
+     inkscape:window-y="362"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-254.56525,-492.21937)">
+    <g
+       id="schematic"
+       transform="matrix(3.5433071,0,0,3.5433071,254.57148,474.21937)">
+      <rect
+         id="rect2988"
+         height="40.064323"
+         width="19.981653"
+         y="5.2491746"
+         x="5.2491736"
+         class="interior rect"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.33834741;stroke-linecap:round" />
+      <line
+         id="connector16pin"
+         y2="10.160001"
+         x2="30.356501"
+         y1="10.160001"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector16pin" />
+      <text
+         id="text2991"
+         y="10.406901"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">TXD</text>
+      <line
+         id="connector17pin"
+         y2="12.700001"
+         x2="30.356501"
+         y1="12.700001"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector17pin" />
+      <text
+         id="text2995"
+         y="12.946901"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">RXD</text>
+      <line
+         id="connector18pin"
+         y2="15.240001"
+         x2="30.356501"
+         y1="15.240001"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2999"
+         y="15.486901"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">RTS</text>
+      <line
+         id="connector19pin"
+         y2="17.780003"
+         x2="30.356501"
+         y1="17.780003"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3003"
+         y="18.026901"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">CTS</text>
+      <line
+         id="connector21pin"
+         y2="22.860003"
+         x2="30.356501"
+         y1="22.860003"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector21pin" />
+      <text
+         id="text3007"
+         y="20.849127"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">SPI/MISO</text>
+      <line
+         id="connector22pin"
+         y2="25.400002"
+         x2="30.356501"
+         y1="25.400002"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3011"
+         y="23.389128"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">SPI/MOSI</text>
+      <line
+         id="connector23pin"
+         y2="27.940002"
+         x2="30.356501"
+         y1="27.940002"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector23pin" />
+      <text
+         id="text3015"
+         y="25.929127"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">SPI/SCK</text>
+      <line
+         id="connector24pin"
+         y2="30.480001"
+         x2="30.356501"
+         y1="30.480001"
+         x1="25.276501"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3019"
+         y="28.469128"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">SPI/SS</text>
+      <line
+         id="connector0pin"
+         y2="7.6199622"
+         x2="5.2034702"
+         y1="7.6199622"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector0pin" />
+      <text
+         id="text3023"
+         y="8.024003"
+         x="21.532118"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">RESET</text>
+      <line
+         id="connector3pin"
+         y2="15.240001"
+         x2="5.2034702"
+         y1="15.240001"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3027"
+         y="12.873398"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO2</text>
+      <line
+         id="connector4pin"
+         y2="17.780003"
+         x2="5.2034702"
+         y1="17.780003"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3031"
+         y="15.413398"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO3</text>
+      <line
+         id="connector5pin"
+         y2="20.320002"
+         x2="5.2034702"
+         y1="20.320002"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3035"
+         y="17.953398"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO4</text>
+      <line
+         id="connector6pin"
+         y2="22.860003"
+         x2="5.2034702"
+         y1="22.860003"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3039"
+         y="20.493397"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO6</text>
+      <line
+         id="connector7pin"
+         y2="25.400002"
+         x2="5.2034702"
+         y1="25.400002"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector7pin" />
+      <text
+         id="text3043"
+         y="23.033398"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO7</text>
+      <line
+         id="connector8pin"
+         y2="27.940002"
+         x2="5.2034702"
+         y1="27.940002"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector8pin" />
+      <text
+         id="text3047"
+         y="25.573397"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO8</text>
+      <line
+         id="connector9pin"
+         y2="30.480001"
+         x2="5.2034702"
+         y1="30.480001"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector9pin" />
+      <text
+         id="text3051"
+         y="28.113398"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO9</text>
+      <line
+         id="connector10pin"
+         y2="33.02"
+         x2="5.2034702"
+         y1="33.02"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text3055"
+         y="30.653395"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO10</text>
+      <line
+         id="connector11pin"
+         y2="35.560001"
+         x2="5.2034702"
+         y1="35.560001"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         inkscape:label="#connector11pin" />
+      <text
+         id="text3059"
+         y="33.193398"
+         x="5.8510957"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">PIO11</text>
+      <text
+         y="18.220802"
+         x="15.3987"
+         font-size="1.49931"
+         id="label"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none">Bluetooth</text>
+      <text
+         y="19.820103"
+         x="15.3987"
+         font-size="1.49931"
+         id="text3079"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none">Module</text>
+      <text
+         y="21.419401"
+         x="15.3987"
+         font-size="1.49931"
+         id="text3081"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none">Breakout</text>
+      <text
+         y="24.618101"
+         x="15.3987"
+         font-size="1.49931"
+         id="text3085"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none" />
+      <text
+         y="23.296427"
+         x="15.321832"
+         font-size="1.49931"
+         id="text3087"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none">(RN-42AZ)</text>
+      <text
+         id="text3059-1"
+         y="36.109741"
+         x="5.9507499"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471987px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">VB1</text>
+      <text
+         id="text3059-1-7"
+         y="38.674255"
+         x="5.8862481"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471987px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">VB2</text>
+      <line
+         id="connector26pin"
+         y2="35.559963"
+         x2="30.468615"
+         y1="35.559963"
+         x1="25.388613"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <line
+         id="connector27pin"
+         y2="38.09996"
+         x2="30.468615"
+         y1="38.09996"
+         x1="25.388613"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="0.12347186"
+         y1="10.159962"
+         x2="5.2034702"
+         y2="10.159962"
+         id="connector1pin" />
+      <text
+         id="text3023-9"
+         y="8.1580553"
+         x="5.7763362"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471987px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">VDD</text>
+      <line
+         id="connector2pin"
+         y2="12.699962"
+         x2="5.2034702"
+         y1="12.699962"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         style="font-size:1.23471987px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none"
+         class="text"
+         font-size="1.23472"
+         x="5.7763362"
+         y="10.692542"
+         id="text4302">GND</text>
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="0.12347186"
+         y1="38.09996"
+         x2="5.2034702"
+         y2="38.09996"
+         id="connector12pin"
+         inkscape:label="#connector12pin" />
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="25.276501"
+         y1="7.6199622"
+         x2="30.356501"
+         y2="7.6199622"
+         id="connector15pin"
+         inkscape:label="#connector15pin" />
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="25.276501"
+         y1="20.319962"
+         x2="30.356501"
+         y2="20.319962"
+         id="connector20pin" />
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="25.276501"
+         y1="33.019962"
+         x2="30.356501"
+         y2="33.019962"
+         id="connector25pin" />
+      <line
+         id="connector13pin"
+         y2="40.639961"
+         x2="5.2034702"
+         y1="40.639961"
+         x1="0.12347186"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="0.12347186"
+         y1="43.179962"
+         x2="5.2034702"
+         y2="43.179962"
+         id="connector14pin" />
+      <text
+         style="font-size:1.23471987px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none"
+         class="text"
+         font-size="1.23472"
+         x="5.7763362"
+         y="40.895824"
+         id="text4316">VDD</text>
+      <text
+         id="text4318"
+         y="43.430317"
+         x="5.7763362"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471987px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">GND</text>
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+         class="pin"
+         x1="25.388613"
+         y1="40.639961"
+         x2="30.468615"
+         y2="40.639961"
+         id="connector28pin" />
+      <line
+         id="connector29pin"
+         y2="43.179962"
+         x2="30.468615"
+         y1="43.179962"
+         x1="25.388613"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none"
+         class="text"
+         font-size="1.23472"
+         x="24.7826"
+         y="31.009104"
+         id="text4326">NC1</text>
+      <text
+         id="text4328"
+         y="33.537788"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">NC2</text>
+      <text
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none"
+         class="text"
+         font-size="1.23472"
+         x="24.7826"
+         y="36.077789"
+         id="text4330">NC3</text>
+      <text
+         id="text4332"
+         y="38.61779"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">NC4</text>
+      <text
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none"
+         class="text"
+         font-size="1.23472"
+         x="24.7826"
+         y="41.157787"
+         id="text4334">NC5</text>
+      <text
+         id="text4336"
+         y="43.697788"
+         x="24.7826"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none">NC6</text>
+    </g>
+  </g>
+</svg>
