@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="15mm"
+   height="15.500001mm"
+   viewBox="0 0 55.807085 57.667325"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DCジャック8pinプリント基板.svg">
+  <metadata
+     id="metadata74">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs72" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1133"
+     inkscape:window-height="834"
+     id="namedview70"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.84"
+     inkscape:cx="34.739521"
+     inkscape:cy="6.2622517"
+     inkscape:window-x="110"
+     inkscape:window-y="126"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="silkscreen"
+     transform="translate(0.4697187,-0.09999779)">
+    <rect
+       y="0.18618125"
+       x="-0.38353324"
+       height="57.494957"
+       width="55.63472"
+       id="rect4171"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#f4f4f4;stroke-width:0.17237093;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line24"
+       x2="0.72000003"
+       x1="21.959999"
+       y2="40.200001"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line26"
+       x2="0.72000003"
+       x1="0.72000003"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line28"
+       x2="41.040001"
+       x1="0.72000003"
+       y2="15.72"
+       y1="15.72" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line30"
+       x2="41.040001"
+       x1="38.16"
+       y2="40.200001"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line32"
+       x2="41.040001"
+       x1="41.040001"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line34"
+       x2="0.72000003"
+       x1="0.72000003"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line36"
+       x2="1.08"
+       x1="1.08"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line38"
+       x2="1.4400001"
+       x1="1.4400001"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line40"
+       x2="1.8"
+       x1="1.8"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line42"
+       x2="2.1600001"
+       x1="2.1600001"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line44"
+       x2="2.52"
+       x1="2.52"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line46"
+       x2="2.8800001"
+       x1="2.8800001"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line48"
+       x2="3.24"
+       x1="3.24"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line50"
+       x2="10.08"
+       x1="10.08"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line52"
+       x2="9.7200003"
+       x1="9.7200003"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line54"
+       x2="9.3599997"
+       x1="9.3599997"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line56"
+       x2="9"
+       x1="9"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line58"
+       x2="8.6400003"
+       x1="8.6400003"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line60"
+       x2="8.2799997"
+       x1="8.2799997"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line62"
+       x2="7.9200001"
+       x1="7.9200001"
+       y2="15.72"
+       y1="40.200001" />
+    <line
+       style="stroke:#ffffff;stroke-width:0.72000003"
+       id="line64"
+       x2="7.5599999"
+       x1="7.5599999"
+       y2="15.72"
+       y1="40.200001" />
+    <text
+       y="7.5"
+       x="3.728543"
+       id="minus_up"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:OCRA">-</text>
+    <text
+       y="7.5"
+       x="48.929726"
+       id="plus_up"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA">+</text>
+    <text
+       y="55"
+       x="3.728543"
+       id="minus_down"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:OCRA">-</text>
+    <text
+       y="55"
+       x="48.929726"
+       id="plus_down"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA">+</text>
+  </g>
+  <g
+     id="copper0"
+     transform="translate(0.4697187,-0.09999779)">
+    <circle
+       cy="5.2086616"
+       cx="13.728543"
+       r="2.052"
+       id="connector0pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="5.2086616"
+       cx="23.178543"
+       r="2.052"
+       id="connector1pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="5.2086616"
+       cx="32.628544"
+       r="2.052"
+       id="connector2pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="5.2086616"
+       cx="41.929726"
+       r="2.052"
+       id="connector3pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="13.728543"
+       r="2.052"
+       id="connector4pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="23.178543"
+       r="2.052"
+       id="connector5pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="32.628544"
+       r="2.052"
+       id="connector6pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="41.929726"
+       r="2.052"
+       id="connector7pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

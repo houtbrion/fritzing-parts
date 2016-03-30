@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.2in' height='0.6in' viewBox='0 0 14.4 43.2' >
+<g partID='855069810'><g xmlns="http://www.w3.org/2000/svg" id="schematic">
+<line x2="7.471" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="connector0pin" fill="none" y1="3.6" y2="3.6" x1="0.35"/>
+<g x="-0.273" y="3.504" xmlns="http://www.w3.org/2000/svg" id="connector0terminal" fill="none" height="0.208" width="0.546"/>
+<polyline stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" fill="none" points="9.898,1.643,14.1,3.6,9.898,5.556"/>
+<line x2="4.781" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="line" fill="none" y1="3.6" y2="3.6" x1="14.1"/>
+<text x="5.05" class="text" stroke-width="0" y="2.58" text-anchor="middle" font-size="2.5" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="#8c8c8c" font-family="'Droid Sans'">1</text>
+<line x2="7.471" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="connector1pin" fill="none" y1="10.8" y2="10.8" x1="0.35"/>
+<g x="-0.273" y="10.704" xmlns="http://www.w3.org/2000/svg" id="connector1terminal" fill="none" height="0.208" width="0.546"/>
+<polyline stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" fill="none" points="9.898,8.843,14.1,10.8,9.898,12.756"/>
+<line x2="4.781" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="line" fill="none" y1="10.8" y2="10.8" x1="14.1"/>
+<text x="5.05" class="text" stroke-width="0" y="9.78" text-anchor="middle" font-size="2.5" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="#8c8c8c" font-family="'Droid Sans'">2</text>
+<line x2="7.471" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="connector2pin" fill="none" y1="18" y2="18" x1="0.35"/>
+<g x="-0.273" y="17.904" xmlns="http://www.w3.org/2000/svg" id="connector2terminal" fill="none" height="0.208" width="0.546"/>
+<polyline stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" fill="none" points="9.898,16.043,14.1,18,9.898,19.956"/>
+<line x2="4.781" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="line" fill="none" y1="18" y2="18" x1="14.1"/>
+<text x="5.05" class="text" stroke-width="0" y="16.98" text-anchor="middle" font-size="2.5" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="#8c8c8c" font-family="'Droid Sans'">3</text>
+<line x2="7.471" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="connector3pin" fill="none" y1="25.2" y2="25.2" x1="0.35"/>
+<g x="-0.273" y="25.104" xmlns="http://www.w3.org/2000/svg" id="connector3terminal" fill="none" height="0.208" width="0.546"/>
+<polyline stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" fill="none" points="9.898,23.243,14.1,25.2,9.898,27.156"/>
+<line x2="4.781" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="line" fill="none" y1="25.2" y2="25.2" x1="14.1"/>
+<text x="5.05" class="text" stroke-width="0" y="24.18" text-anchor="middle" font-size="2.5" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="#8c8c8c" font-family="'Droid Sans'">4</text>
+<line x2="7.471" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="connector4pin" fill="none" y1="32.4" y2="32.4" x1="0.35"/>
+<g x="-0.273" y="32.304" xmlns="http://www.w3.org/2000/svg" id="connector4terminal" fill="none" height="0.208" width="0.546"/>
+<polyline stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" fill="none" points="9.898,30.443,14.1,32.4,9.898,34.356"/>
+<line x2="4.781" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="line" fill="none" y1="32.4" y2="32.4" x1="14.1"/>
+<text x="5.05" class="text" stroke-width="0" y="31.38" text-anchor="middle" font-size="2.5" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="#8c8c8c" font-family="'Droid Sans'">5</text>
+<line x2="7.471" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="connector5pin" fill="none" y1="39.6" y2="39.6" x1="0.35"/>
+<g x="-0.273" y="39.504" xmlns="http://www.w3.org/2000/svg" id="connector5terminal" fill="none" height="0.208" width="0.546"/>
+<polyline stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" fill="none" points="9.898,37.643,14.1,39.6,9.898,41.556"/>
+<line x2="4.781" stroke-width="0.7" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke="#000000" id="line" fill="none" y1="39.6" y2="39.6" x1="14.1"/>
+<text x="5.05" class="text" stroke-width="0" y="38.58" text-anchor="middle" font-size="2.5" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="#8c8c8c" font-family="'Droid Sans'">6</text>
+</g>
+</g></svg>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="15mm"
+   height="15.5mm"
+   viewBox="0 0 55.80708598950633 57.66732218915654"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DCジャック4pinブレッドボード.svg">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1307"
+     inkscape:window-height="839"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="4.2970609"
+     inkscape:cx="-29.277325"
+     inkscape:cy="27.46063"
+     inkscape:window-x="1969"
+     inkscape:window-y="131"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="connector2terminal"
+     width="0.86445"
+     x="48.8146"
+     y="35.8316"
+     gorn="0.0.1"
+     height="5.38014"
+     style="fill:#8c8c8c;stroke:none" />
+  <g
+     id="connector0terminal"
+     width="0.86445"
+     x="48.8146"
+     y="35.8316"
+     gorn="0.0.3"
+     height="5.38014"
+     style="fill:#8c8c8c" />
+  <g
+     id="connector1terminal"
+     width="0.86445"
+     x="48.8146"
+     y="29.03026"
+     gorn="0.0.5"
+     height="5.37913"
+     style="fill:#8c8c8c" />
+  <g
+     id="g3491">
+    <polygon
+       transform="matrix(1.7785143,0,0,1.9050114,-28.521719,-3.6171063e-7)"
+       style="fill:#1f7a34"
+       id="polygon28"
+       points="47.3077,30.24 47.3077,26.4018 47.3077,26.4018 47.3077,0 44.5531,0 44.5531,0 15.9206,0 15.9206,30.24 " />
+    <circle
+       cy="5.2086616"
+       cx="13.728543"
+       r="2.052"
+       id="connector0pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="5.2086616"
+       cx="23.178543"
+       r="2.052"
+       id="connector1pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="5.2086616"
+       cx="32.628544"
+       r="2.052"
+       id="connector2pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="5.2086616"
+       cx="41.929726"
+       r="2.052"
+       id="connector3pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="13.728543"
+       r="2.052"
+       id="connector4pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="23.178543"
+       r="2.052"
+       id="connector5pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="32.628544"
+       r="2.052"
+       id="connector6pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="52.45866"
+       cx="41.929726"
+       r="2.052"
+       id="connector7pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       y="7.5"
+       x="3.728543"
+       id="minus_up"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:DroidSans">-</text>
+    <text
+       y="7.5"
+       x="48.929726"
+       id="plus_up"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:DroidSans">+</text>
+    <text
+       y="55"
+       x="3.728543"
+       id="minus_down"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:DroidSans">-</text>
+    <text
+       y="55"
+       x="48.929726"
+       id="plus_down"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:DroidSans">+</text>
+    <rect
+       style="fill:#232323"
+       id="rect34"
+       height="23.9697"
+       y="16.982849"
+       x="4.4716401"
+       width="32.968601" />
+    <rect
+       style="fill:#494949"
+       id="rect36"
+       height="1.65759"
+       y="17.566219"
+       x="5.0771499"
+       width="31.930901" />
+    <polygon
+       transform="translate(0.73305923,15.348246)"
+       style="fill:#facb00"
+       id="polygon38"
+       points="14.7694,20.3055 22.2287,11.2511 19.0558,10.4294 19.9999,6.02889 15.5412,12.2036 18.5847,12.8091 " />
+    <rect
+       style="fill:#3d3d3d;fill-opacity:0.3"
+       id="rect40"
+       height="5.4253998"
+       y="19.224819"
+       x="5.0771499"
+       width="31.930901" />
+    <rect
+       id="rect42"
+       height="1.63647"
+       y="38.793102"
+       x="4.04041"
+       width="32.968601" />
+    <rect
+       style="fill:#0f0f0f;fill-opacity:0.4"
+       id="rect44"
+       height="5.8860602"
+       y="32.958302"
+       x="4.04041"
+       width="32.968601" />
+    <rect
+       style="fill:#232323"
+       x="0"
+       id="rect46"
+       height="26.3344"
+       y="15.799999"
+       width="7.6894302" />
+  </g>
+</svg>

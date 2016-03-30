@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="7.7923508mm"
+   height="9.0311108mm"
+   viewBox="0 0 28.991226 33.599998"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DCジャック12pinアイコン.svg">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1307"
+     inkscape:window-height="931"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="3.26"
+     inkscape:cx="-23.356833"
+     inkscape:cy="36.606142"
+     inkscape:window-x="1969"
+     inkscape:window-y="131"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="connector2terminal"
+     width="0.86445"
+     x="48.8146"
+     y="35.8316"
+     gorn="0.0.1"
+     height="5.38014"
+     style="fill:#8c8c8c;stroke:none"
+     transform="translate(-8.3742348,-33.670118)" />
+  <g
+     id="connector0terminal"
+     width="0.86445"
+     x="48.8146"
+     y="35.8316"
+     gorn="0.0.3"
+     height="5.38014"
+     style="fill:#8c8c8c"
+     transform="translate(-8.3742348,-33.670118)" />
+  <g
+     id="connector1terminal"
+     width="0.86445"
+     x="48.8146"
+     y="29.03026"
+     gorn="0.0.5"
+     height="5.37913"
+     style="fill:#8c8c8c"
+     transform="translate(-8.3742348,-33.670118)" />
+  <g
+     id="g4192"
+     transform="matrix(0.50172842,0,0,0.50172842,1.3498031,1.1254004)">
+    <polygon
+       transform="matrix(1.8372939,0,0,2.2145671,-31.82575,-2.2430509)"
+       style="fill:#1f7a34"
+       id="polygon28"
+       points="44.5531,0 15.9206,0 15.9206,30.24 47.3077,30.24 47.3077,26.4018 47.3077,26.4018 47.3077,0 44.5531,0 " />
+    <circle
+       cy="2.6639981"
+       cx="2.664"
+       r="2.052"
+       id="connector0pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="2.6639981"
+       cx="12.113999"
+       r="2.052"
+       id="connector1pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="2.6639981"
+       cx="21.564001"
+       r="2.052"
+       id="connector2pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       cy="2.6639981"
+       cx="31.013998"
+       r="2.052"
+       id="connector3pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       y="18.354111"
+       x="1.0382326"
+       id="minus_up"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:DroidSans">-</text>
+    <text
+       y="18.354111"
+       x="46.239414"
+       id="plus_up"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:DroidSans">+</text>
+    <text
+       y="49.054115"
+       x="1.0382326"
+       id="minus_down"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:DroidSans">-</text>
+    <text
+       y="49.054115"
+       x="46.239414"
+       id="plus_down"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:DroidSans">+</text>
+    <rect
+       style="fill:#232323"
+       id="rect34"
+       height="23.9697"
+       y="19.436958"
+       x="1.7813294"
+       width="32.968601" />
+    <rect
+       style="fill:#494949"
+       id="rect36"
+       height="1.65759"
+       y="20.020329"
+       x="2.3868392"
+       width="31.930901" />
+    <polygon
+       transform="translate(-1.9572514,17.802355)"
+       style="fill:#facb00"
+       id="polygon38"
+       points="18.5847,12.8091 14.7694,20.3055 22.2287,11.2511 19.0558,10.4294 19.9999,6.02889 15.5412,12.2036 " />
+    <rect
+       style="fill:#3d3d3d;fill-opacity:0.3"
+       id="rect40"
+       height="5.4253998"
+       y="21.678926"
+       x="2.3868392"
+       width="31.930901" />
+    <rect
+       id="rect42"
+       height="1.63647"
+       y="41.247211"
+       x="1.3500993"
+       width="32.968601" />
+    <rect
+       style="fill:#0f0f0f;fill-opacity:0.4"
+       id="rect44"
+       height="5.8860602"
+       y="35.412407"
+       x="1.3500993"
+       width="32.968601" />
+    <rect
+       style="fill:#232323"
+       x="-2.6903102"
+       id="rect46"
+       height="26.3344"
+       y="18.254108"
+       width="7.6894302" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="connector4pin"
+       r="2.052"
+       cx="40.463997"
+       cy="2.6639981" />
+    <circle
+       cy="2.6639981"
+       cx="49.913998"
+       r="2.052"
+       id="connector5pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="connector6pin"
+       r="2.052"
+       cx="2.664"
+       cy="59.363995" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="connector7pin"
+       r="2.052"
+       cx="12.113999"
+       cy="59.363995" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="connector8pin"
+       r="2.052"
+       cx="21.564001"
+       cy="59.363995" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="connector9pin"
+       r="2.052"
+       cx="31.013998"
+       cy="59.363995" />
+    <circle
+       cy="59.363995"
+       cx="40.463997"
+       r="2.052"
+       id="connector10pin"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.22399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="connector11pin"
+       r="2.052"
+       cx="49.913998"
+       cy="59.363995" />
+  </g>
+</svg>
