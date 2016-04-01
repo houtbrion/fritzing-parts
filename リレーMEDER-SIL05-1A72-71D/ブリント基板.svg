@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.20000002in"
+   height="0.7795276in"
+   viewBox="0 0 14.399996 56.12602"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ブリント基板.svg">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs133" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1658"
+     inkscape:window-height="972"
+     id="namedview131"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="6.9231048"
+     inkscape:cx="27.345436"
+     inkscape:cy="23.57306"
+     inkscape:window-x="1759"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="silkscreen"
+     transform="translate(4.9516244,47.047918)">
+    <rect
+       y="-46.903145"
+       x="-4.8068528"
+       height="55.836468"
+       width="14.110461"
+       id="rect4222"
+       style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.289547;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="copper0"
+     transform="translate(4.9516244,47.047918)">
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02640069;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="2.1601303"
+       cx="2.1601167"
+       id="connector3pin"
+       r="1.64693"
+       connectorname="4" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="-12.239747"
+       cx="2.1601167"
+       id="connector2pin"
+       r="1.64693"
+       connectorname="3" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="-26.639753"
+       cx="2.1601167"
+       id="connector1pin"
+       r="1.64693"
+       connectorname="2" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="-41.039761"
+       cx="2.1601167"
+       id="connector0pin"
+       r="1.64693"
+       connectorname="1" />
+  </g>
+</svg>

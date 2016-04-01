@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.55627131in"
+   height="0.49355164in"
+   viewBox="0 0 40.051545 35.535717"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="回路図 - コピー.svg">
+  <metadata
+     id="metadata89">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs87" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1513"
+     inkscape:window-height="951"
+     id="namedview85"
+     showgrid="false"
+     inkscape:zoom="5.7101619"
+     inkscape:cx="30.078139"
+     inkscape:cy="13.547617"
+     inkscape:window-x="1861"
+     inkscape:window-y="118"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     partID="854172530"
+     id="g4"
+     transform="translate(0.03033941,-15.958516)">
+    <g
+       id="g4282">
+      <path
+         transform="matrix(0,-1,1,0,0,0)"
+         d="m -29.011797,10.299829 a 1.9019699,1.9019699 0 0 1 -0.950985,1.647154 1.9019699,1.9019699 0 0 1 -1.90197,0 1.9019699,1.9019699 0 0 1 -0.950985,-1.647155 l 1.90197,1e-6 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="1.9019699"
+         sodipodi:rx="1.9019699"
+         sodipodi:cy="10.299829"
+         sodipodi:cx="-30.913767"
+         sodipodi:type="arc"
+         id="path4227"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.19606176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.19606176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4229"
+         sodipodi:type="arc"
+         sodipodi:cx="-34.474907"
+         sodipodi:cy="10.299829"
+         sodipodi:rx="1.9019699"
+         sodipodi:ry="1.9019699"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m -32.572937,10.299829 a 1.9019699,1.9019699 0 0 1 -0.950985,1.647154 1.9019699,1.9019699 0 0 1 -1.90197,0 1.9019699,1.9019699 0 0 1 -0.950985,-1.647155 l 1.90197,1e-6 z"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         y="29.066542"
+         x="7.7083068"
+         height="3.3992798"
+         width="2.7371423"
+         id="rect4231"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19843708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <line
+         x1="10.407469"
+         x2="7.7409654"
+         y1="29.021568"
+         y2="29.021568"
+         id="line19-8-8"
+         style="fill:none;stroke:#000000;stroke-width:0.11338083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19843708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4233"
+         width="2.7371423"
+         height="3.5748725"
+         x="7.7083068"
+         y="32.68375" />
+      <line
+         x1="10.342587"
+         x2="7.676085"
+         y1="36.355877"
+         y2="36.355877"
+         id="line19-8-4"
+         style="fill:none;stroke:#000000;stroke-width:0.11338083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <line
+         x1="7.4855795"
+         x2="39.29834"
+         y1="16.345419"
+         y2="16.345419"
+         id="line17"
+         style="fill:none;stroke:#000000;stroke-width:0.77374387;stroke-linecap:round" />
+      <line
+         x1="39.623058"
+         x2="39.623058"
+         y1="16.918409"
+         y2="50.593853"
+         id="line19"
+         style="fill:none;stroke:#000000;stroke-width:0.79622036;stroke-linecap:round" />
+      <line
+         x1="39.29834"
+         x2="7.4855795"
+         y1="51.10733"
+         y2="51.10733"
+         id="line21"
+         style="fill:none;stroke:#000000;stroke-width:0.77374387;stroke-linecap:round" />
+      <line
+         x1="7.4626846"
+         x2="7.4626846"
+         y1="50.518112"
+         y2="17.004314"
+         id="line23"
+         style="fill:none;stroke:#000000;stroke-width:0.79430711;stroke-linecap:round" />
+      <line
+         x1="0.34999999"
+         x2="7.5500002"
+         id="connector3pin"
+         y1="21.958902"
+         y2="21.958902"
+         style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+      <g
+         y="7.56"
+         height="0"
+         id="connector2terminal"
+         width="0"
+         x="0.35"
+         style="fill:none" />
+      <text
+         y="20.909601"
+         x="3.2616999"
+         style="font-size:2.5px;font-family:DroidSans;fill:#8c8c8c"
+         id="text29"
+         font-size="2.5">3</text>
+      <text
+         sodipodi:linespacing="125%"
+         y="20.641171"
+         x="7.9881101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50000095px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#787878"
+         id="text33"
+         font-size="3.5">
+        <tspan
+           y="20.641171"
+           x="7.9881101"
+           id="tspan4206"
+           sodipodi:role="line">OUT</tspan>
+      </text>
+      <line
+         x1="0.34999999"
+         x2="7.5500002"
+         id="connector2pin"
+         y1="29.158503"
+         y2="29.158503"
+         style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+      <g
+         y="21.96"
+         height="0"
+         id="connector0terminal"
+         width="0"
+         x="0.35"
+         style="fill:none" />
+      <text
+         sodipodi:linespacing="125%"
+         y="28.109604"
+         x="3.2616999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+         id="text39"
+         font-size="2.5">
+        <tspan
+           y="28.109604"
+           x="3.2616999"
+           id="tspan4235"
+           sodipodi:role="line">2</tspan>
+      </text>
+      <text
+         sodipodi:linespacing="125%"
+         y="26.858717"
+         x="7.9881101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50000095px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#787878"
+         id="text43"
+         font-size="3.5">
+        <tspan
+           y="26.858717"
+           x="7.9881101"
+           id="tspan4204"
+           sodipodi:role="line">COUT</tspan>
+      </text>
+      <line
+         x1="0.34999999"
+         x2="7.5500002"
+         id="connector1pin"
+         y1="36.360001"
+         y2="36.360001"
+         style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+      <g
+         y="36.36"
+         height="0"
+         id="connector1terminal"
+         width="0"
+         x="0.35"
+         style="fill:none" />
+      <text
+         sodipodi:linespacing="125%"
+         y="35.309601"
+         x="3.2616999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+         id="text49"
+         font-size="2.5">
+        <tspan
+           y="35.309601"
+           x="3.2616999"
+           id="tspan4237"
+           sodipodi:role="line">1</tspan>
+      </text>
+      <text
+         sodipodi:linespacing="125%"
+         y="40.655209"
+         x="8.5495138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50000095px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#787878"
+         id="text53"
+         font-size="3.5">
+        <tspan
+           y="40.655209"
+           x="8.5495138"
+           id="tspan4202"
+           sodipodi:role="line">CIN</tspan>
+      </text>
+      <g
+         y="36.36"
+         height="0"
+         id="connector5terminal"
+         width="0"
+         x="57.951"
+         style="fill:none" />
+      <g
+         y="7.56"
+         height="0"
+         id="connector4terminal"
+         width="0"
+         x="57.951"
+         style="fill:none" />
+      <g
+         y="21.96"
+         height="0"
+         id="connector3terminal"
+         width="0"
+         x="57.951"
+         style="fill:none" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4267-4"
+         font-size="4.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000095px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         x="21.254391"
+         y="-23.520332">
+        <tspan
+           y="-23.520332"
+           x="21.254391"
+           id="tspan4187"
+           sodipodi:role="line">SIL05-1A72-71D</tspan>
+      </text>
+      <line
+         style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round"
+         y2="43.560009"
+         y1="43.560009"
+         id="connector0pin"
+         x2="7.5500002"
+         x1="0.34999999" />
+      <text
+         sodipodi:linespacing="125%"
+         y="42.509609"
+         x="3.2616999"
+         font-size="2.5"
+         id="text4194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c">
+        <tspan
+           y="42.509609"
+           x="3.2616999"
+           id="tspan4239"
+           sodipodi:role="line">0</tspan>
+      </text>
+      <text
+         sodipodi:linespacing="125%"
+         y="47.574512"
+         x="8.8302155"
+         font-size="3.5"
+         id="text4198"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50000095px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#787878">
+        <tspan
+           y="47.574512"
+           x="8.8302155"
+           id="tspan4194"
+           sodipodi:role="line">IN</tspan>
+      </text>
+      <text
+         y="39.181755"
+         x="22.214148"
+         id="text4212"
+         font-size="4.25"
+         style="font-size:4.25px;font-family:DroidSans" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         y="-28.426682"
+         x="25.159456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25000143px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         font-size="4.25"
+         id="text4214">
+        <tspan
+           y="-28.426682"
+           x="25.159456"
+           id="tspan4191"
+           sodipodi:role="line">MEDER</tspan>
+      </text>
+      <line
+         x1="18.06802"
+         x2="7.3120341"
+         y1="21.788866"
+         y2="21.788866"
+         id="line19-8"
+         style="fill:none;stroke:#000000;stroke-width:0.22602415;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <line
+         x1="18.198875"
+         x2="7.4428921"
+         y1="43.404808"
+         y2="43.404808"
+         id="line19-8-6"
+         style="fill:none;stroke:#000000;stroke-width:0.22602415;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.18802154;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="line4235"
+         y2="21.869307"
+         y1="29.312439"
+         x2="17.967222"
+         x1="17.967222" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.1926436;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="line4235-1"
+         y2="35.78294"
+         y1="43.596512"
+         x2="18.014778"
+         x1="18.014778" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:0.1926436;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="line4235-1-7"
+         y2="29.23868"
+         y1="36.005432"
+         x2="21.772682"
+         x1="17.865894" />
+      <line
+         x1="18.911427"
+         x2="18.020384"
+         y1="29.313784"
+         y2="29.313784"
+         id="line19-8-6-8"
+         style="fill:none;stroke:#000000;stroke-width:0.0650548;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

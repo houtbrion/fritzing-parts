@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.35555556in"
+   height="0.091223344in"
+   viewBox="0 0 25.599991 6.5680846"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="アイコン.svg">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs133" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1658"
+     inkscape:window-height="972"
+     id="namedview131"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="6.9231048"
+     inkscape:cx="18.143343"
+     inkscape:cy="-2.6866542"
+     inkscape:window-x="1759"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4147"
+     transform="matrix(0,-0.45611674,0.45611674,0,0.06602765,6.6341175)">
+    <rect
+       y="-0.14477547"
+       x="0.14477158"
+       height="56.126015"
+       width="14.400008"
+       id="rect4222"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.289547;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02640069;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="49.20805"
+       cx="7.1117411"
+       id="connector3pin"
+       r="1.64693"
+       connectorname="4" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="34.80817"
+       cx="7.1117411"
+       id="connector2pin"
+       r="1.64693"
+       connectorname="3" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="20.408165"
+       cx="7.1117411"
+       id="connector1pin"
+       r="1.64693"
+       connectorname="2" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="6.0081573"
+       cx="7.1117411"
+       id="connector0pin"
+       r="1.64693"
+       connectorname="1" />
+    <text
+       transform="matrix(0,1,-1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text4182"
+       y="-10.177196"
+       x="12.58093"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00000238px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-10.177196"
+         x="12.58093"
+         id="tspan4184"
+         sodipodi:role="line">SIL05-1A72-71D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000167px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4.0298486"
+       y="-1.7416692"
+       id="text4186"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         y="-1.7416692"
+         x="4.0298486"
+         id="tspan4190"
+         sodipodi:role="line">IN</tspan></text>
+    <text
+       transform="matrix(0,1,-1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text4192"
+       y="-1.3950037"
+       x="47.478588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000167px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4196"
+         sodipodi:role="line"
+         x="47.478588"
+         y="-1.3950037">OUT</tspan></text>
+    <text
+       transform="matrix(0,1,-1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text4198"
+       y="-1.7416692"
+       x="17.38986"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000167px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-1.7416692"
+         x="17.38986"
+         id="tspan4202"
+         sodipodi:role="line">C-IN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000167px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.789864"
+       y="-1.7416692"
+       id="text4204"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         id="tspan4208"
+         sodipodi:role="line"
+         x="31.789864"
+         y="-1.7416692">C-OUT</tspan></text>
+  </g>
+</svg>
