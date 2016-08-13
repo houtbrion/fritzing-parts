@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.30147in"
+   height="0.28384in"
+   viewBox="0 0 21.7058 20.4365"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="プリント基板.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1549"
+     inkscape:window-height="835"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="9.2383815"
+     inkscape:cx="0.87727757"
+     inkscape:cy="12.7728"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     partID="855330631"
+     id="g24">
+    <g
+       id="silkscreen">
+      <g
+         transform="scale(111.11111,111.11111)"
+         id="g27">
+        <path
+           stroke="#ffffff"
+           stroke-width="0.0072"
+           style="stroke-miterlimit:4;stroke-dasharray:none"
+           d="M0.17865,0.063225C0.166575,0.0264816,0.131896,0,0.091125,0,0.0591927,0,0.031119,0.0162472,0.014625,0.04095l0,0.022275m0,0.0576,0,0.02205c0.0164932,0.0247078,0.0445639,0.041175,0.0765,0.041175,0.0407713,0,0.0754496,-0.0264816,0.087525,-0.063225"
+           stroke-opacity="1"
+           id="path3607"
+           fill="none" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g4151">
+    <circle
+       style="fill:none;stroke:#ff9400;stroke-width:1.44000006"
+       cx="2.56464"
+       cy="10.2182"
+       id="connector0pad"
+       r="1.62" />
+    <circle
+       style="fill:none;stroke:#ff9400;stroke-width:1.44000006"
+       cx="8.2382402"
+       cy="10.2182"
+       id="connector1pad"
+       r="1.62" />
+    <circle
+       style="fill:none;stroke:#ff9400;stroke-width:1.44000006"
+       cx="13.8974"
+       cy="10.2182"
+       id="connector2pad"
+       r="1.62" />
+    <circle
+       style="fill:none;stroke:#ff9400;stroke-width:1.44000006"
+       cx="19.570999"
+       cy="10.2182"
+       id="connector3pad"
+       r="1.62" />
+  </g>
+</svg>

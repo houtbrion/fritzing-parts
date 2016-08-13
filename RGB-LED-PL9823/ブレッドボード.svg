@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.33in"
+   height="0.758777in"
+   viewBox="0 0 23.76 54.632"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ブレッドボード.svg">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1599"
+     inkscape:window-height="906"
+     id="namedview50"
+     showgrid="false"
+     inkscape:zoom="6.911707"
+     inkscape:cx="14.850001"
+     inkscape:cy="34.144966"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     stroke="#8c8c8c"
+     stroke-width="2.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     d="M1.08,32.5512L1.08,53.552"
+     id="path4" />
+  <path
+     stroke="#8c8c8c"
+     stroke-width="2.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     d="M22.68,32.5512L22.68,53.552"
+     id="path6" />
+  <path
+     stroke="#8c8c8c"
+     stroke-width="2.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     d="M8.28,32.5512L8.28,53.552"
+     id="path8" />
+  <path
+     stroke="#8c8c8c"
+     stroke-width="2.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     d="M15.48,32.5512L15.48,53.552"
+     id="path10" />
+  <g
+     id="g4227">
+    <g
+       id="rgbled">
+      <path
+         style="fill:#8c8c8c"
+         inkscape:connector-curvature="0"
+         id="path24"
+         d="m 8.993,18.0127 0,5.00618 c 0,1.17404 -0.417,2.49409 -0.857,3.89214 -0.464,1.46905 -0.942,2.98611 -0.942,4.44916 l 0,1.18804 0.008,0 0,0 2.158,-2e-5 0,0 -0.006,0 0,-1.18804 c 0,-1.12904 0.409,-2.42609 0.842,-3.79914 0.473,-1.49306 0.959,-3.03611 0.959,-4.54217 l 0,-5.00618 -2.162,3e-5 0,0 z" />
+      <path
+         style="fill:#8c8c8c"
+         inkscape:connector-curvature="0"
+         id="path26"
+         d="m 5.363,18.0127 c 0,0 0,3.99415 0,5.18619 0,1.19204 -1.271,2.30201 -2.39,3.42811 C 1.511,28.098 0,29.6191 0,31.3602 l 0,1.18804 0,0 2.16,0 0,0 0,-1.02304 c 0,-1.09604 1.246,-2.27008 2.345,-3.37312 1.483,-1.49306 3.019,-3.03811 3.019,-4.82118 l 0,-5.3142 -2.161,-0.004 0,0 z" />
+      <path
+         style="fill:#8c8c8c"
+         inkscape:connector-curvature="0"
+         id="path28"
+         d="m 15.623,26.911 c -0.441,-1.39605 -0.857,-2.7181 -0.857,-3.89214 l 0,-5.00618 -2.159,0 0,5.00618 c 0,1.50606 0.485,3.04911 0.957,4.54217 0.436,1.37305 0.844,2.6701 0.844,3.79914 l 0,1.18804 -0.008,0 0,0 2.159,0 0,0 0.009,0 0,-1.18804 C 16.567,29.8971 16.086,28.377 15.623,26.911 Z" />
+      <path
+         style="fill:#8c8c8c"
+         inkscape:connector-curvature="0"
+         id="path30"
+         d="m 20.786,26.626 c -1.12,-1.12704 -2.391,-2.23608 -2.391,-3.42813 0,-1.19205 0,-5.18619 0,-5.18619 l -2.16,0 0,5.3132 c 0,1.78407 1.535,3.32912 3.019,4.82218 1.101,1.10404 2.346,2.27408 2.346,3.37312 l 0,1.02204 0,0 2.16,0 0,0 0,-1.18504 C 23.76,29.6191 22.248,28.098 20.786,26.626 Z" />
+      <path
+         style="opacity:0.5;fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         id="path32"
+         d="m 19.133,13.1765 0,-5.99224 C 19.133,3.21612 15.916,0 11.948,0 7.982,0 4.765,3.21612 4.765,7.18426 l 0,13.8345 c 1.5,1.67406 4.153,2.7891 7.184,2.7891 4.687,0 8.48,-2.6581 8.48,-5.93822 l 0,-1.54706 C 20.432,15.1676 19.95,14.0895 19.133,13.1765 Z" />
+      <path
+         style="opacity:0.9;fill:#d1d1d1"
+         inkscape:connector-curvature="0"
+         id="path34"
+         d="m 19.133,13.1765 0,3.14612 c 0,2.7771 -3.217,5.02919 -7.185,5.02919 -3.966,0 -7.184,-2.25208 -7.184,-5.02919 l 0,3.14812 0,1.54706 c 1.5,1.67206 4.153,2.7891 7.184,2.7891 4.687,0 8.48,-2.6581 8.48,-5.93822 l 0,-1.54606 C 20.432,15.1676 19.95,14.0895 19.133,13.1765 Z" />
+      <path
+         style="opacity:0.23999999"
+         inkscape:connector-curvature="0"
+         id="path36"
+         d="m 19.133,13.1765 0,3.14612 c 0,2.7771 -3.217,5.02919 -7.185,5.02919 -3.966,0 -7.184,-2.25208 -7.184,-5.02919 l 0,3.14812 c 1.5,1.67406 4.153,2.7891 7.184,2.7891 4.687,0 8.48,-2.6581 8.48,-5.93822 C 20.432,15.1676 19.95,14.0895 19.133,13.1765 Z" />
+      <ellipse
+         style="opacity:0.5;fill:#cccccc"
+         id="ellipse38"
+         cx="11.95"
+         ry="5.0291901"
+         cy="16.323601"
+         rx="7.1830001" />
+      <polygon
+         style="fill:#999999"
+         id="polygon40"
+         points="15.978,13.2685 15.978,16.3256 16.903,16.3256 16.903,8.63732 15.692,8.63732 16.133,9.15334 12.981,12.5185 15.978,12.5185 " />
+      <polygon
+         style="fill:#999999"
+         id="polygon42"
+         points="8.22,8.92133 6.999,9.77636 6.999,16.3256 8.865,16.3236 8.865,12.5185 11.563,12.5185 14.916,8.92133 12.729,8.92133 12.223,9.79636 10.278,9.79636 9.772,8.92133 " />
+      <path
+         style="opacity:0.6;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path44"
+         d="M 15.295,3.80114 16.754,3.52413 C 15.905,2.37509 14.646,1.53806 13.166,1.25305 l 0.252,1.09704 c 0.776,0.27501 1.428,0.79103 1.877,1.45105 z" />
+      <path
+         style="opacity:0.6;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path46"
+         d="m 5.545,20.1967 0,1.54606 c 0.66,0.53602 1.447,0.989036 2.34,1.33405 l 0,-1.54806 C 6.992,21.1868 6.205,20.7318 5.545,20.1967 Z" />
+      <path
+         style="opacity:0.6;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path48"
+         d="m 15.987,20.4818 c -0.264,0.125005 -0.537,0.233009 -0.821,0.334012 -0.06,0.021 -0.119,0.041 -0.181,0.062 -0.569,0.188007 -1.184,0.321012 -1.821,0.397015 -0.076,0.011 -0.154,0.019 -0.23,0.025 -0.321,0.03 -0.647,0.053 -0.983,0.053 -0.148,0 -0.312,-0.01 -0.478,-0.024 -1.223,-0.058 -2.362,-0.317012 -3.344,-0.750028 l 0,-8.50731 0,-4.887233 c 0,-1.49005 0.86,-2.7661 2.104,-3.39613 L 10.212,3.7371281 8.946,2.20308 C 7.257,3.22312 6.115,5.06519 6.115,7.18226 l 0,12.06844 C 6.066,19.201698 5.802,18.938688 5.63,18.71668 l -0.312,0.699026 c 1.426,1.50306 3.861,2.49709 6.632,2.49709 1.703,0 3.277,-0.379014 4.572,-1.01904 l -0.531,-0.412015 c -0.004,5.9e-5 -0.004,5.9e-5 -0.004,5.9e-5 z" />
+    </g>
+    <rect
+       style="fill:none"
+       x="0"
+       y="22.000799"
+       id="connector0pin"
+       height="1.0000401"
+       width="1" />
+    <rect
+       style="fill:none"
+       y="22.000799"
+       id="connector1pin"
+       height="1.0000401"
+       x="7.1989999"
+       width="1" />
+    <rect
+       style="fill:none"
+       y="22.000799"
+       id="connector2pin"
+       height="1.0000401"
+       x="14.399"
+       width="1" />
+    <rect
+       style="fill:none"
+       y="22.000799"
+       id="connector3pin"
+       height="1.0000401"
+       x="21.598"
+       width="1" />
+  </g>
+  <g
+     y1="32.55"
+     y2="53.55"
+     x1="1.08"
+     x2="1.08"
+     id="connector0leg"
+     style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" />
+  <g
+     y1="32.55"
+     y2="53.55"
+     x1="8.28"
+     x2="8.28"
+     id="connector1leg"
+     style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" />
+  <g
+     y1="32.55"
+     y2="53.55"
+     x1="15.48"
+     x2="15.48"
+     id="connector2leg"
+     style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" />
+  <g
+     y1="32.55"
+     y2="53.55"
+     x1="22.68"
+     x2="22.68"
+     id="connector3leg"
+     style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" />
+</svg>

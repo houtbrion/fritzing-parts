@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.709722in' height='0.511042in' viewBox='0 0 51.1 36.795' >
+<g partID='855330690'><g id="schematic">
+<rect stroke="#000000" width="36" x="7.55" stroke-width="0.9" height="21.6" stroke-linejoin="round" stroke-linecap="round" fill="#FFFFFF" y="7.739"/>
+<line stroke="#787878" stroke-width="0.75" y1="14.938" y2="14.938" x1="50.749" x2="43.549" id="connector0pin" stroke-linecap="round" fill="none"/>
+<g width="0" x="50.749" height="0.001" id="connector0terminal" fill="none" y="14.938"/>
+<g transform="matrix(1, 0, 0, 1, 46.4602, 13.8877)">
+<text font-size="2.5" fill="#8C8C8C" font-family="'DroidSans'">1</text>
+</g>
+<line stroke="#787878" stroke-width="0.75" y1="14.938" y2="14.938" x1="0.35" x2="7.55" id="connector1pin" stroke-linecap="round" fill="none"/>
+<g width="0" x="0.35" height="0.001" id="connector1terminal" fill="none" y="14.938"/>
+<g transform="matrix(1, 0, 0, 1, 3.2629, 13.8877)">
+<text font-size="2.5" fill="#8C8C8C" font-family="'DroidSans'">2</text>
+</g>
+<line stroke="#787878" stroke-width="0.75" y1="7.675" y2="0.475" x1="18.553" x2="18.553" id="connector2pin" stroke-linecap="round" fill="none"/>
+<g width="0" x="18.553" height="0.002" id="connector2terminal" fill="none" y="0.474"/>
+<g transform="matrix(1, 0, 0, 1, 19.6028, 5.3877)">
+<text font-size="2.5" fill="#8C8C8C" font-family="'DroidSans'">3</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 34.0051, 16.0273)">
+<text font-size="3.5" fill="#787878" font-family="'DroidSans'">VDD</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 8.7253, 16.0273)">
+<text font-size="3.5" fill="#787878" font-family="'DroidSans'">DOUT</text>
+</g>
+<line stroke="#787878" stroke-width="0.75" y1="22.138" y2="22.138" x1="0.351" x2="7.55" id="connector3pin" stroke-linecap="round" fill="none"/>
+<g width="0" x="0.351" height="0.002" id="connector3terminal" fill="none" y="22.138"/>
+<g transform="matrix(1, 0, 0, 1, 3.2629, 21.0889)">
+<text font-size="2.5" fill="#8C8C8C" font-family="'DroidSans'">4</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 8.7258, 23.2275)">
+<text font-size="3.5" fill="#787878" font-family="'DroidSans'">D</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 11.0862, 23.2275)">
+<text font-size="3.5" fill="#787878" font-family="'DroidSans'">I</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 12.2717, 23.2275)">
+<text font-size="3.5" fill="#787878" font-family="'DroidSans'">N</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.7336, 12.1025)">
+<text font-size="3.5" fill="#787878" font-family="'DroidSans'">VSS</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.1521, 20.6768)">
+<text font-size="4.252" font-family="'DroidSans'">WS2811</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 19.6033, 25.7783)">
+<text font-size="4.252" font-family="'DroidSans'">RGB LED</text>
+</g>
+</g>
+</g></svg>
