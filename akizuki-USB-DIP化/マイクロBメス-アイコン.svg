@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 31.999999 31.999999"
+   height="9.0311108mm"
+   width="9.0311108mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="マイクロBメス-アイコン.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1261"
+     inkscape:window-height="860"
+     id="namedview171"
+     showgrid="false"
+     inkscape:zoom="14.333333"
+     inkscape:cx="6.4186043"
+     inkscape:cy="22.5"
+     inkscape:window-x="260"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4206"
+     transform="scale(0.71111111,0.71111111)">
+    <rect
+       transform="scale(1,-1)"
+       style="fill:#1f7a34;fill-opacity:1;stroke:none;stroke-width:0.74965549;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4754"
+       y="-45"
+       x="0"
+       height="45"
+       width="45" />
+    <circle
+       cx="-38.998867"
+       cy="-4.8064823"
+       r="2.5650001"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="connector1pin"
+       style="fill:none;stroke:#9a916c;stroke-width:1.52999997" />
+    <circle
+       style="fill:none;stroke:#9a916c;stroke-width:1.52999997"
+       id="connector2pin"
+       transform="matrix(0,-1,-1,0,0,0)"
+       r="2.5650001"
+       cy="-13.829161"
+       cx="-38.998867" />
+    <circle
+       cx="-38.998867"
+       cy="-22.829161"
+       r="2.5650001"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="connector3pin"
+       style="fill:none;stroke:#9a916c;stroke-width:1.52999997" />
+    <circle
+       style="fill:none;stroke:#9a916c;stroke-width:1.52999997"
+       id="connector4pin"
+       transform="matrix(0,-1,-1,0,0,0)"
+       r="2.5650001"
+       cy="-31.829161"
+       cx="-38.998867" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+       id="text4787"
+       y="-32.823528"
+       x="40.268658"
+       transform="scale(1.0416893,-0.95997915)"
+       sodipodi:linespacing="100%">
+      <tspan
+         y="-32.823528"
+         x="40.268658"
+         id="tspan4791"
+         sodipodi:role="line">-</tspan>
+    </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:100%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+       id="text4793"
+       y="-32.712757"
+       x="25.843716"
+       transform="scale(1.0416893,-0.95997915)"
+       sodipodi:linespacing="100%">
+      <tspan
+         y="-32.712757"
+         x="25.843716"
+         id="tspan4865"
+         sodipodi:role="line">D+</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="100%"
+       transform="scale(1.0416893,-0.95997915)"
+       x="16.430111"
+       y="-32.703903"
+       id="text4867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:100%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff">
+      <tspan
+         id="tspan4871"
+         sodipodi:role="line"
+         x="16.430111"
+         y="-32.703903">D-</tspan>
+    </text>
+    <g
+       id="g4176"
+       transform="matrix(1.2500001,0,0,-1.2500001,8.6805922,27.627694)">
+      <g
+         id="g4178">
+        <g
+           id="g4180">
+          <rect
+             id="rect4182"
+             x="7.2850299"
+             height="0.64999998"
+             y="0"
+             width="0.99000001"
+             style="fill:#666666" />
+          <rect
+             id="rect4184"
+             x="7.2850299"
+             height="0.51200002"
+             y="0"
+             width="0.088999897"
+             style="fill:#999999" />
+        </g>
+        <g
+           id="g4186">
+          <rect
+             id="rect4188"
+             x="9.1290197"
+             height="0.64999998"
+             y="0"
+             width="0.99100101"
+             style="fill:#666666" />
+          <rect
+             id="rect4190"
+             x="9.1290197"
+             height="0.51200002"
+             y="0"
+             width="0.088999897"
+             style="fill:#999999" />
+        </g>
+        <g
+           id="g4192">
+          <rect
+             id="rect4194"
+             x="10.97"
+             height="0.64999998"
+             y="0"
+             width="0.99100101"
+             style="fill:#666666" />
+          <rect
+             id="rect4196"
+             x="10.97"
+             height="0.51200002"
+             y="0"
+             width="0.088999897"
+             style="fill:#999999" />
+        </g>
+        <g
+           id="g4198">
+          <rect
+             id="rect4200"
+             x="12.814"
+             height="0.64999998"
+             y="0"
+             width="0.99000001"
+             style="fill:#666666" />
+          <rect
+             id="rect4202"
+             x="12.814"
+             height="0.51200002"
+             y="0"
+             width="0.087999798"
+             style="fill:#999999" />
+        </g>
+        <g
+           id="g4204">
+          <rect
+             id="rect4206"
+             x="14.656"
+             height="0.64999998"
+             y="0"
+             width="0.99000001"
+             style="fill:#666666" />
+          <rect
+             id="rect4208"
+             x="14.656"
+             height="0.51200002"
+             y="0"
+             width="0.088999897"
+             style="fill:#999999" />
+        </g>
+        <g
+           id="g4210">
+          <polygon
+             id="polygon4212"
+             points="2.164,21.364 2.06,19.335 2.06,0.366 20.905,0.366 20.904,19.104 20.848,21.364 "
+             style="fill:#b3b3b3" />
+          <polygon
+             id="polygon4214"
+             points="4.061,21.192 13.309,21.19 10.12,17.786 2.275,17.786 2.275,21.197 "
+             style="fill:#999999" />
+          <rect
+             id="rect4216"
+             x="21.104"
+             height="3.0409999"
+             y="6.98"
+             width="1.831"
+             style="fill:#666666" />
+          <rect
+             id="rect4218"
+             x="0"
+             height="3.0409999"
+             y="6.98"
+             width="1.829"
+             style="fill:#666666" />
+          <rect
+             id="rect4220"
+             x="2.0599999"
+             height="0.13"
+             y="0.366"
+             width="18.844999"
+             style="fill:#cccccc" />
+          <rect
+             id="rect4222"
+             x="6.3210001"
+             height="18.363001"
+             y="0.366"
+             width="10.291"
+             style="fill:#333333" />
+          <rect
+             id="rect4224"
+             x="0.82599801"
+             height="1.082"
+             y="18.188"
+             width="1.003"
+             style="fill:#b3b3b3" />
+          <rect
+             id="rect4226"
+             x="1.189"
+             height="1.082"
+             y="18.188"
+             width="0.64200002"
+             style="fill:#cccccc" />
+          <rect
+             id="rect4228"
+             x="21.103001"
+             height="1.082"
+             y="18.188"
+             width="1.001"
+             style="fill:#b3b3b3" />
+          <rect
+             id="rect4230"
+             x="21.103001"
+             height="1.082"
+             y="18.188"
+             width="0.64200002"
+             style="fill:#cccccc" />
+          <g
+             id="g4232">
+            <g
+               id="g4234">
+              <rect
+                 id="rect4236"
+                 x="15.4"
+                 height="0.648"
+                 y="19.104"
+                 width="0.477"
+                 style="fill:#f2f2f2" />
+            </g>
+            <g
+               id="g4238">
+              <rect
+                 id="rect4240"
+                 x="13.313"
+                 height="0.648"
+                 y="19.104"
+                 width="0.479"
+                 style="fill:#f2f2f2" />
+            </g>
+            <g
+               id="g4242">
+              <rect
+                 id="rect4244"
+                 x="11.229"
+                 height="0.648"
+                 y="19.104"
+                 width="0.477"
+                 style="fill:#f2f2f2" />
+            </g>
+            <g
+               id="g4246">
+              <rect
+                 id="rect4248"
+                 x="9.1429901"
+                 height="0.648"
+                 y="19.104"
+                 width="0.477"
+                 style="fill:#f2f2f2" />
+            </g>
+            <g
+               id="g4250">
+              <rect
+                 id="rect4252"
+                 x="7.0580001"
+                 height="0.648"
+                 y="19.104"
+                 width="0.477"
+                 style="fill:#f2f2f2" />
+            </g>
+            <g
+               id="g4254">
+              <rect
+                 id="rect4256"
+                 x="7.0580001"
+                 height="0.648"
+                 y="19.104"
+                 width="0.0959998"
+                 style="fill:#808080" />
+            </g>
+            <g
+               id="g4258">
+              <rect
+                 id="rect4260"
+                 x="9.1429901"
+                 height="0.648"
+                 y="19.104"
+                 width="0.0959998"
+                 style="fill:#808080" />
+            </g>
+            <g
+               id="g4262">
+              <rect
+                 id="rect4264"
+                 x="11.229"
+                 height="0.648"
+                 y="19.104"
+                 width="0.097999901"
+                 style="fill:#808080" />
+            </g>
+            <g
+               id="g4266">
+              <rect
+                 id="rect4268"
+                 x="13.314"
+                 height="0.648"
+                 y="19.104"
+                 width="0.097999901"
+                 style="fill:#808080" />
+            </g>
+            <g
+               id="g4270">
+              <rect
+                 id="rect4272"
+                 x="15.401"
+                 height="0.648"
+                 y="19.104"
+                 width="0.097999901"
+                 style="fill:#808080" />
+            </g>
+          </g>
+          <path
+             id="path4274"
+             d="m 6.545,19.938 0.514,0 0,-0.396 0.477,0 0,0.396 1.608,0 0,-0.396 0.47599,0 0,0.396 1.608,0 0,-0.396 0.477,0 0,0.396 1.607,0 0,-0.396 0.479,0 0,0.396 1.60901,0 0,-0.396 0.477,0 0,0.396 0.323,0 0.269,0 c 0.079,0 0.144,-0.064 0.144,-0.146 l 0,-1.064 c 0,-0.08 -0.063,-0.146 -0.144,-0.146 l -10.003,0 c -0.079,0 -0.146,0.064 -0.146,0.146 l 0,1.064 c 0,0.078 0.065,0.146 0.146,0.146 l 0.079,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#4d4d4d" />
+          <path
+             id="path4276"
+             d="m 1.829,0.932998 0.229,-0.567 2.534,0 c 0,0 -2.302,0.113 -2.384,0.283 -0.082,0.17 0.11,0.284 0.11,0.284 l -0.489,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             id="path4278"
+             d="m 21.104,0.932998 -0.229,-0.566 -2.535,2e-6 c 0,0 2.301,0.113 2.383,0.283 0.082,0.17 -0.109,0.283 -0.109,0.283 l 0.49,-2e-6 z"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             id="path4280"
+             d="m 1.829,16.688 0,4.833 19.276,-0.006 0,-4.827 -19.276,0 z m 18.829,4.509 -18.383,0 0,-3.411 18.385,0 -0.002,3.411 z"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             id="path4282"
+             d="M 17.715,0.932998 17.715,2 16.11,2 l 0,-1.634 -0.461,0 0,0.566 -8.36397,-3e-6 0,-0.565997 -0.52503,0 0,1.635 -1.606,0 0,-1.068002 -3.325,0 0,16.439 19.273,0 0,-16.439 -3.387,0 z M 6.76,14.223 l 0,0.814003 -1.593,-3e-6 0,-0.880999 c -0.426,-0.277 -0.708,-0.760003 -0.708,-1.307 0,-0.598 0.219,-1.105 0.708,-1.369 l 0,0 0,-4.48 1.592,0 0,4.482 c 0.488,0.264 0.824998,0.772999 0.824998,1.371 C 7.58398,13.45 7.24802,13.96 6.76,14.223 Z m 10.888,0 0,0.814003 -1.592,0 0,-0.880999 c -0.426,-0.277 -0.707,-0.760003 -0.707,-1.307 0,-0.598 0.217,-1.105 0.707,-1.369 l 0,0 0,-4.48 1.592,0 0,4.482 c 0.49,0.264 0.825998,0.772999 0.825998,1.371 C 18.474,13.45 18.139,13.96 17.648,14.223 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#e6e6e6" />
+          <polygon
+             id="polygon4284"
+             points="2.235,17.376 1.829,17.376 1.829,0.932998 3.36,0.932998 "
+             style="fill:#f2f2f2" />
+          <polygon
+             id="polygon4286"
+             points="21.104,17.376 20.535,6.396 19.968,0.932998 21.104,0.932998 "
+             style="fill:#999999" />
+          <rect
+             id="rect4288"
+             x="5.1669998"
+             height="0.13"
+             y="7.0009999"
+             width="1.592"
+             style="fill:#cccccc" />
+          <rect
+             id="rect4290"
+             x="16.058001"
+             height="0.13"
+             y="7.0009999"
+             width="1.591"
+             style="fill:#cccccc" />
+          <rect
+             id="rect4292"
+             x="2.7739999"
+             height="0.66000003"
+             y="16.511999"
+             width="17.386999"
+             style="fill:#b3b3b3" />
+          <rect
+             id="rect4294"
+             x="2.7739999"
+             height="0.31299999"
+             y="17.063"
+             width="17.386999"
+             style="fill:#cccccc" />
+        </g>
+      </g>
+    </g>
+    <circle
+       cx="-38.998867"
+       cy="-40.829163"
+       r="2.5650001"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="connector5pin"
+       style="fill:none;stroke:#9a916c;stroke-width:1.52999997" />
+    <text
+       sodipodi:linespacing="100%"
+       transform="scale(1.0416893,-0.95997915)"
+       x="6.6043262"
+       y="-32.017986"
+       id="xx3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff">
+      <tspan
+         y="-32.017986"
+         x="6.6043262"
+         id="tspan4785"
+         sodipodi:role="line">+</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.311111in"
+   height="0.512292in"
+   viewBox="0 0 22.4 36.885"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ミニBメス-回路図.svg">
+  <metadata
+     id="metadata55">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs53" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1355"
+     inkscape:window-height="805"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="5.1186083"
+     inkscape:cx="-31.031777"
+     inkscape:cy="23.053141"
+     inkscape:window-x="298"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     y="0.43799999"
+     width="14.4"
+     height="36"
+     x="7.5500002"
+     id="rect7"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25200129px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     id="text19"
+     font-size="4.252"
+     transform="matrix(0,-1,1,0,0,0)"
+     x="-28.294872"
+     y="16.193579"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4155"
+       x="-28.294872"
+       y="16.193579">USB mini B</tspan>
+  </text>
+  <line
+     id="connector4pin"
+     x1="0.34999999"
+     y1="18.438"
+     x2="7.5500002"
+     y2="18.438"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     points="0.35,18.438,0.35,18.438,0.35,18.438"
+     id="connector4terminal"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text25"
+     font-size="2.5"
+     x="2.3247449"
+     y="17.543291"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4264"
+       x="2.3247449"
+       y="17.543291">D+</tspan>
+  </text>
+  <line
+     id="connector5pin"
+     x1="0.34999999"
+     y1="25.638"
+     x2="7.5500002"
+     y2="25.638"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     points="0.35,25.638,0.35,25.638,0.35,25.638"
+     id="connector5terminal"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text31"
+     font-size="2.5"
+     x="2.0121598"
+     y="24.5881"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4262"
+       x="2.0121598"
+       y="24.5881">NC</tspan>
+  </text>
+  <line
+     id="connector8pin"
+     x1="0.34999999"
+     y1="32.837002"
+     x2="7.5500002"
+     y2="32.837002"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     id="connector8terminal"
+     y="32.837"
+     width="0"
+     height="0.001"
+     x="0.35"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text37"
+     font-size="2.5"
+     x="1.2306972"
+     y="32.099983"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4260"
+       x="1.2306972"
+       y="32.099983">GND</tspan>
+  </text>
+  <line
+     id="connector6pin"
+     x1="0.34999999"
+     y1="4.0370002"
+     x2="7.5500002"
+     y2="4.0370002"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     id="connector6terminal"
+     y="4.037"
+     width="0"
+     height="0.001"
+     x="0.35"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text43"
+     font-size="2.5"
+     x="0.91811216"
+     y="3.4554775"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4268"
+       x="0.91811216"
+       y="3.4554775">VBAS</tspan>
+  </text>
+  <line
+     id="connector7pin"
+     x1="0.34999999"
+     y1="11.238"
+     x2="7.5500002"
+     y2="11.238"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     points="0.35,11.238,0.35,11.238,0.35,11.238"
+     id="connector7terminal"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000072px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text49"
+     font-size="2.5"
+     x="2.4810374"
+     y="10.1877"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4266"
+       x="2.4810374"
+       y="10.1877">D-</tspan>
+  </text>
+</svg>

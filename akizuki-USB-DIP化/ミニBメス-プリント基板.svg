@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.314961in' height='0.433071in' viewBox='0 0 22.6772 31.1811' >
+<g partID='855356280'><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" id="connector0pad" stroke="#F7BD13" fill="none" stroke-width="0.141732" r="1.20473" connectorname="H1" cy="9.35433" cx="12.0473"/>
+ <circle xmlns="http://www.w3.org/2000/svg" id="connector1pad" stroke="#F7BD13" fill="none" stroke-width="0.141732" r="1.20473" connectorname="H2" cy="21.8268" cx="12.0473"/>
+</g>
+</g><g partID='855356281'><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector6pad" stroke="none" fill="#F7BD13" y="14.8819" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="D+" height="1.41732" x="15.5906"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector7pad" stroke="none" fill="#F7BD13" y="12.6142" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="D-" height="1.41732" x="15.5906"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector8pad" stroke="none" fill="#F7BD13" y="19.4173" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="GND" height="1.41732" x="15.5906"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector9pad" stroke="none" fill="#F7BD13" y="17.1496" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="ID" height="1.41732" x="15.5906"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector2pad" stroke="none" fill="#F7BD13" y="25.5118" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="G1" height="5.66929" x="0"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector3pad" stroke="none" fill="#F7BD13" y="0" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="G2" height="5.66929" x="0"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector5pad" stroke="none" fill="#F7BD13" y="25.5118" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="G4" height="5.66929" x="15.5906"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector4pad" stroke="none" fill="#F7BD13" y="0" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="G3" height="5.66929" x="15.5906"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector10pad" stroke="none" fill="#F7BD13" y="10.3465" width="7.08662" stroke-linecap="round" stroke-width="0" connectorname="VBUS" height="1.41732" x="15.5906"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" id="connector0pad" stroke="#F7BD13" fill="none" stroke-width="0.141732" r="1.20473" connectorname="H1" cy="9.35433" cx="12.0473"/>
+  <circle xmlns="http://www.w3.org/2000/svg" id="connector1pad" stroke="#F7BD13" fill="none" stroke-width="0.141732" r="1.20473" connectorname="H2" cy="21.8268" cx="12.0473"/>
+ </g>
+</g>
+</g><g partID='855356282'><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" class="other" stroke="#f0f0f0" stroke-linecap="round" stroke-width="0.576001" x1="8.36221" y1="4.8189" x2="14.315" y2="4.8189"/>
+ <line xmlns="http://www.w3.org/2000/svg" class="other" stroke="#f0f0f0" stroke-linecap="round" stroke-width="0.576001" x1="21.4016" y1="6.80315" x2="21.4016" y2="9.35433"/>
+ <line xmlns="http://www.w3.org/2000/svg" class="other" stroke="#f0f0f0" stroke-linecap="round" stroke-width="0.576001" x1="21.4016" y1="21.8268" x2="21.4016" y2="24.378"/>
+ <line xmlns="http://www.w3.org/2000/svg" class="other" stroke="#f0f0f0" stroke-linecap="round" stroke-width="0.576001" x1="14.315" y1="26.3622" x2="8.36221" y2="26.3622"/>
+</g>
+</g></svg>

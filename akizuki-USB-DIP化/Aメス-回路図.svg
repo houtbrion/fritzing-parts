@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.311347in"
+   height="0.413597in"
+   viewBox="0 0 22.417 29.779"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Aメス-回路図.svg">
+  <metadata
+     id="metadata49">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs47" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1448"
+     inkscape:window-height="814"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="6.3400419"
+     inkscape:cx="14.010615"
+     inkscape:cy="18.611864"
+     inkscape:window-x="523"
+     inkscape:window-y="279"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     y="0.514"
+     width="14.401"
+     height="28.801001"
+     x="7.5500002"
+     id="rect7"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000381px;line-height:100%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     id="text19"
+     font-size="4.252"
+     x="9.3370657"
+     y="13.370279"
+     sodipodi:linespacing="100%">USB</text>
+  <line
+     id="connector3pin"
+     x1="0.34999999"
+     y1="4.1149998"
+     x2="7.5500002"
+     y2="4.1149998"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     points="0,4.468,0.49,4.468,0.49,3.733,0,3.733"
+     id="connector3terminal"
+     style="fill:none" />
+  <text
+     style="font-size:2.50000167px;font-family:DroidSans;fill:#8c8c8c;-inkscape-font-specification:'DroidSans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+     id="text25"
+     font-size="2.5"
+     x="3.2622001"
+     y="3.0652001"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4251">D+</tspan>
+  </text>
+  <line
+     id="connector2pin"
+     x1="0.34999999"
+     y1="11.315"
+     x2="7.5500002"
+     y2="11.315"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     points="0.583,11.681,0.583,10.952,0,10.952,0,11.681"
+     id="connector2terminal"
+     style="fill:none" />
+  <text
+     style="font-size:2.50000167px;font-family:DroidSans;fill:#8c8c8c;-inkscape-font-specification:'DroidSans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+     id="text31"
+     font-size="2.5"
+     x="3.2622001"
+     y="10.2644"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4253">D-</tspan>
+  </text>
+  <line
+     id="connector4pin"
+     x1="0.34999999"
+     y1="18.514"
+     x2="7.5500002"
+     y2="18.514"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     id="connector4terminal"
+     y="18.16"
+     width="0.521"
+     height="0.729"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000167px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text37"
+     font-size="2.5"
+     x="0.73855579"
+     y="17.717964"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4255"
+       x="0.73855579"
+       y="17.717964">VBUS</tspan>
+  </text>
+  <line
+     id="connector5pin"
+     x1="0.34999999"
+     y1="25.714001"
+     x2="7.5500002"
+     y2="25.714001"
+     style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+  <g
+     id="connector5terminal"
+     y="25.348"
+     width="0.521"
+     height="0.75"
+     style="fill:none" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000167px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c"
+     id="text43"
+     font-size="2.5"
+     x="1.1171024"
+     y="24.664801"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4257"
+       x="1.1171024"
+       y="24.664801">GND</tspan>
+  </text>
+  <text
+     y="18.675011"
+     x="8.5799723"
+     font-size="4.252"
+     id="text4247"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00000286px;line-height:100%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="100%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4249"
+       x="8.5799723"
+       y="18.675011">Type A</tspan>
+  </text>
+</svg>
