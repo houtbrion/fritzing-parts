@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.0311108mm"
+   height="7.7217569mm"
+   viewBox="0 0 32 27.360556"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="アイコン.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="36.172639"
+     inkscape:cy="47.679657"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1487"
+     inkscape:window-height="1013"
+     inkscape:window-x="491"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.312759,-394.91979)">
+    <g
+       id="g4189"
+       transform="matrix(0.29632583,0,0,0.29632583,55.81034,297.14777)">
+      <g
+         id="breadboard">
+        <rect
+           style="fill:#3dadc4;fill-opacity:1;stroke:none;stroke-width:0.36199999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4138"
+           width="107.98924"
+           height="92.316322"
+           x="79.312759"
+           y="329.96402" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector0pin"
+           r="1.9542859"
+           cx="84.054054"
+           cy="354.71823" />
+        <circle
+           cy="363.71823"
+           cx="84.054054"
+           r="1.9542859"
+           id="connector1pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector2pin"
+           r="1.9542859"
+           cx="84.054054"
+           cy="372.71823" />
+        <circle
+           cy="381.71823"
+           cx="84.054054"
+           r="1.9542859"
+           id="connector3pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector4pin"
+           r="1.9542859"
+           cx="84.054054"
+           cy="390.71823" />
+        <circle
+           cy="399.71823"
+           cx="84.054054"
+           r="1.9542859"
+           id="connector5pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector6pin"
+           r="1.9542859"
+           cx="84.054054"
+           cy="408.71823" />
+        <circle
+           cy="417.71823"
+           cx="84.054054"
+           r="1.9542859"
+           id="connector7pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           cy="354.71823"
+           cx="183.05405"
+           r="1.9542859"
+           id="connector15pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector14pin"
+           r="1.9542859"
+           cx="183.05405"
+           cy="363.71823" />
+        <circle
+           cy="372.71823"
+           cx="183.05405"
+           r="1.9542859"
+           id="connector13pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector12pin"
+           r="1.9542859"
+           cx="183.05405"
+           cy="381.71823" />
+        <circle
+           cy="390.71823"
+           cx="183.05405"
+           r="1.9542859"
+           id="connector11pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector10pin"
+           r="1.9542859"
+           cx="183.05405"
+           cy="399.71823" />
+        <circle
+           cy="408.71823"
+           cx="183.05405"
+           r="1.9542859"
+           id="connector9pin"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="fill:none;stroke:#f7bd13;stroke-width:1.16571438;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector8pin"
+           r="1.9542859"
+           cx="183.05405"
+           cy="417.71823" />
+        <rect
+           style="fill:#002068;fill-opacity:1;stroke:none;stroke-width:0.36199999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4134"
+           width="63.779518"
+           height="70.866135"
+           x="101.26781"
+           y="329.94766" />
+        <rect
+           style="fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:0.36199999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4136"
+           width="55.810928"
+           height="44.446709"
+           x="105.05586"
+           y="353.33661" />
+        <text
+           sodipodi:linespacing="100%"
+           id="text4772"
+           y="356.12219"
+           x="87.395386"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4301"
+             x="87.395386"
+             y="356.12219">3V3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="87.181152"
+           y="365.12219"
+           id="text4303"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4307"
+             x="87.181152"
+             y="365.12219">EN</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4309"
+           y="374.12219"
+           x="87.395386"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4313"
+             x="87.395386"
+             y="374.12219">IO14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="87.395386"
+           y="383.12219"
+           id="text4315"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4319"
+             x="87.395386"
+             y="383.12219">IO12</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4321"
+           y="392.12219"
+           x="87.395386"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4325"
+             x="87.395386"
+             y="392.12219">IO13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="87.395386"
+           y="401.12219"
+           id="text4327"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4331"
+             x="87.395386"
+             y="401.12219">IO15</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4333"
+           y="410.12219"
+           x="87.395386"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4337"
+             x="87.395386"
+             y="410.12219">IO2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74999952px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="87.395386"
+           y="419.12219"
+           id="text4339"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4343"
+             x="87.395386"
+             y="419.12219">IO0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="171.39539"
+           y="356.12219"
+           id="text4355"
+           sodipodi:linespacing="100%"><tspan
+             y="356.12219"
+             x="171.39539"
+             sodipodi:role="line"
+             id="tspan4401">GND</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4359"
+           y="365.12219"
+           x="171.18115"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="365.12219"
+             x="171.18115"
+             sodipodi:role="line"
+             id="tspan4399">IO16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="170.30891"
+           y="374.12219"
+           id="text4363"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4397"
+             x="170.30891"
+             y="374.12219">TOUT</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4367"
+           y="383.12219"
+           x="172.65808"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4395"
+             x="172.65808"
+             y="383.12219">RST</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="172.91061"
+           y="391.36456"
+           id="text4371"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4393"
+             x="172.91061"
+             y="391.36456">IO5</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4375"
+           y="401.12219"
+           x="172.91061"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4391"
+             x="172.91061"
+             y="401.12219">TXD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="172.65808"
+           y="410.12219"
+           id="text4379"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4389"
+             x="172.65808"
+             y="410.12219">RXD</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4383"
+           y="419.12219"
+           x="172.91061"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4387"
+             x="172.91061"
+             y="419.12219">IO4</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4403"
+           y="411.11203"
+           x="105.73803"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan4407"
+             x="105.73803"
+             y="411.11203">SWITCH SCIENCE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="107.75834"
+           y="378.02954"
+           id="text4409"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4413"
+             x="107.75834"
+             y="378.02954">ESP-WROOM-2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.70013845in"
+   height="1.1in"
+   viewBox="0 0 50.409969 79.2"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="回路図.svg">
+  <metadata
+     id="metadata154">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs152" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1556"
+     inkscape:window-height="959"
+     id="namedview150"
+     showgrid="false"
+     inkscape:zoom="4.6752197"
+     inkscape:cx="86.447866"
+     inkscape:cy="56.020057"
+     inkscape:window-x="1734"
+     inkscape:window-y="121"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g5007"
+     transform="translate(0.00498486,-3.0517578e-6)">
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector0terminal"
+       y="6.85" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector1terminal"
+       y="14.05" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector2terminal"
+       y="21.25" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector3terminal"
+       y="28.45" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector4terminal"
+       y="35.65" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector5terminal"
+       y="42.85" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector6terminal"
+       y="50.05" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector7terminal"
+       y="57.25" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector8terminal"
+       y="64.45" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="0"
+       height="0.699998"
+       width="0"
+       id="connector9terminal"
+       y="71.65" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector19terminal"
+       y="6.85" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector18terminal"
+       y="14.05" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector17terminal"
+       y="21.25" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector16terminal"
+       y="28.45" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector15terminal"
+       y="35.65" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector14terminal"
+       y="42.85" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector13terminal"
+       y="50.05" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector12terminal"
+       y="57.25" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector11terminal"
+       y="64.45" />
+    <g
+       style="fill:none;stroke-width:0"
+       x="50.4"
+       height="0.699998"
+       width="0"
+       id="connector10terminal"
+       y="71.65" />
+    <g
+       inkscape:label="#schematic
+"
+       id="schematic_">
+      <rect
+         y="0.44999999"
+         width="21.15"
+         height="78.300003"
+         x="14.4"
+         id="rect7"
+         style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         y1="7.1999998"
+         y2="7.1999998"
+         x1="0.34999901"
+         x2="14.4"
+         id="line10"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="6.8499999"
+         id="connector0pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="1"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="6.1500001"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text15"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4842"
+           x="7.1999998"
+           y="6.1500001">0</tspan>
+      </text>
+      <line
+         y1="14.4"
+         y2="14.4"
+         x1="0.34999901"
+         x2="14.4"
+         id="line17"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="14.05"
+         id="connector1pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="2"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="13.35"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text22"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4844"
+           x="7.1999998"
+           y="13.35">1</tspan>
+      </text>
+      <line
+         y1="21.6"
+         y2="21.6"
+         x1="0.34999901"
+         x2="14.4"
+         id="line24"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="21.25"
+         id="connector2pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="3"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="20.549999"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text29"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4846"
+           x="7.1999998"
+           y="20.549999">2</tspan>
+      </text>
+      <line
+         y1="28.799999"
+         y2="28.799999"
+         x1="0.34999901"
+         x2="14.4"
+         id="line31"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="28.450001"
+         id="connector3pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="4"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="27.75"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text36"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4848"
+           x="7.1999998"
+           y="27.75">3</tspan>
+      </text>
+      <line
+         y1="36"
+         y2="36"
+         x1="0.34999901"
+         x2="14.4"
+         id="line38"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="35.650002"
+         id="connector4pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="5"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="34.950001"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4850"
+           x="7.1999998"
+           y="34.950001">4</tspan>
+      </text>
+      <line
+         y1="43.200001"
+         y2="43.200001"
+         x1="0.34999901"
+         x2="14.4"
+         id="line45"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="42.849998"
+         id="connector5pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="6"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="42.150002"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text50"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4852"
+           x="7.1999998"
+           y="42.150002">5</tspan>
+      </text>
+      <line
+         y1="50.400002"
+         y2="50.400002"
+         x1="0.34999901"
+         x2="14.4"
+         id="line52"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="50.049999"
+         id="connector6pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="7"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="49.349998"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text57"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4854"
+           x="7.1999998"
+           y="49.349998">6</tspan>
+      </text>
+      <line
+         y1="57.599998"
+         y2="57.599998"
+         x1="0.34999901"
+         x2="14.4"
+         id="line59"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="57.25"
+         id="connector7pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="8"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="56.549999"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4856"
+           x="7.1999998"
+           y="56.549999">7</tspan>
+      </text>
+      <line
+         y1="64.800003"
+         y2="64.800003"
+         x1="0.34999901"
+         x2="14.4"
+         id="line66"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="64.449997"
+         id="connector8pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="9"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="63.75"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text71"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4858"
+           x="7.1999998"
+           y="63.75">8</tspan>
+      </text>
+      <line
+         y1="72"
+         y2="72"
+         x1="0.34999901"
+         x2="14.4"
+         id="line73"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="71.650002"
+         id="connector9pin"
+         width="14.4"
+         height="0.69999802"
+         connectorName="10"
+         x="0"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="70.949997"
+         class="text"
+         font-size="2.5"
+         x="7.1999998"
+         id="text78"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4860"
+           x="7.1999998"
+           y="70.949997">9</tspan>
+      </text>
+      <line
+         y1="7.1999998"
+         y2="7.1999998"
+         x1="35.650002"
+         x2="50.049999"
+         id="line80"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="6.8499999"
+         connectorname="20"
+         id="connector19pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="6.1500001"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text85"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4880"
+           x="43.200001"
+           y="6.1500001">19</tspan>
+      </text>
+      <line
+         y1="14.4"
+         y2="14.4"
+         x1="35.650002"
+         x2="50.049999"
+         id="line87"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="14.05"
+         connectorname="19"
+         id="connector18pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="13.35"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text92"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4878"
+           x="43.200001"
+           y="13.35">18</tspan>
+      </text>
+      <line
+         y1="21.6"
+         y2="21.6"
+         x1="35.650002"
+         x2="50.049999"
+         id="line94"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="21.25"
+         connectorname="18"
+         id="connector17pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="20.549999"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text99"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4876"
+           x="43.200001"
+           y="20.549999">17</tspan>
+      </text>
+      <line
+         y1="28.799999"
+         y2="28.799999"
+         x1="35.650002"
+         x2="50.049999"
+         id="line101"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="28.450001"
+         connectorname="17"
+         id="connector16pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="27.75"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4874"
+           x="43.200001"
+           y="27.75">16</tspan>
+      </text>
+      <line
+         y1="36"
+         y2="36"
+         x1="35.650002"
+         x2="50.049999"
+         id="line108"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="35.650002"
+         connectorname="16"
+         id="connector15pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="34.950001"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4872"
+           x="43.200001"
+           y="34.950001">15</tspan>
+      </text>
+      <line
+         y1="43.200001"
+         y2="43.200001"
+         x1="35.650002"
+         x2="50.049999"
+         id="line115"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="42.849998"
+         connectorname="15"
+         id="connector14pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="42.150002"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text120"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4870"
+           x="43.200001"
+           y="42.150002">14</tspan>
+      </text>
+      <line
+         y1="50.400002"
+         y2="50.400002"
+         x1="35.650002"
+         x2="50.049999"
+         id="line122"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="50.049999"
+         connectorname="14"
+         id="connector13pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="49.349998"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text127"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4868"
+           x="43.200001"
+           y="49.349998">13</tspan>
+      </text>
+      <line
+         y1="57.599998"
+         y2="57.599998"
+         x1="35.650002"
+         x2="50.049999"
+         id="line129"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="57.25"
+         connectorname="13"
+         id="connector12pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="56.549999"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4866"
+           x="43.200001"
+           y="56.549999">12</tspan>
+      </text>
+      <line
+         y1="64.800003"
+         y2="64.800003"
+         x1="35.650002"
+         x2="50.049999"
+         id="line136"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="64.449997"
+         connectorname="12"
+         id="connector11pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="63.75"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4864"
+           x="43.200001"
+           y="63.75">11</tspan>
+      </text>
+      <line
+         y1="72"
+         y2="72"
+         x1="35.650002"
+         x2="50.049999"
+         id="line143"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="71.650002"
+         connectorname="11"
+         id="connector10pin"
+         width="14.4"
+         height="0.69999802"
+         x="36"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="70.949997"
+         class="text"
+         font-size="2.5"
+         x="43.200001"
+         id="text148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4862"
+           x="43.200001"
+           y="70.949997">10</tspan>
+      </text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4772"
+         y="8.1658392"
+         x="15.795094"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4301"
+           x="15.795094"
+           y="8.1658392">3V3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="15.603153"
+         y="15.395135"
+         id="text4303"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4307"
+           x="15.603153"
+           y="15.395135">EN</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4309"
+         y="22.56584"
+         x="15.77454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4313"
+           x="15.77454"
+           y="22.56584">IO14</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="15.77454"
+         y="29.765841"
+         id="text4315"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4319"
+           x="15.77454"
+           y="29.765841">IO12</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4321"
+         y="36.965839"
+         x="15.77454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4325"
+           x="15.77454"
+           y="36.965839">IO13</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="15.77454"
+         y="44.165836"
+         id="text4327"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4331"
+           x="15.77454"
+           y="44.165836">IO15</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4333"
+         y="51.365837"
+         x="15.77454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4337"
+           x="15.77454"
+           y="51.365837">IO2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="15.77454"
+         y="58.565838"
+         id="text4339"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4343"
+           x="15.77454"
+           y="58.565838">IO0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="30.049292"
+         y="7.8236089"
+         id="text4355"
+         sodipodi:linespacing="100%"><tspan
+           y="7.8236089"
+           x="30.049292"
+           sodipodi:role="line"
+           id="tspan4401">GND</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4359"
+         y="15.023608"
+         x="29.875463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="15.023608"
+           x="29.875463"
+           sodipodi:role="line"
+           id="tspan4399">IO16</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="29.250463"
+         y="22.223608"
+         id="text4363"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4397"
+           x="29.250463"
+           y="22.223608">TOUT</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4367"
+         y="29.423609"
+         x="30.894995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4395"
+           x="30.894995"
+           y="29.423609">RST</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="30.996557"
+         y="36.623608"
+         id="text4371"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4393"
+           x="30.996557"
+           y="36.623608">IO5</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4375"
+         y="43.852905"
+         x="30.752417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4391"
+           x="30.752417"
+           y="43.852905">TXD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="30.611792"
+         y="51.052902"
+         id="text4379"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4389"
+           x="30.611792"
+           y="51.052902">RXD</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4383"
+         y="58.223606"
+         x="30.925268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4387"
+           x="30.925268"
+           y="58.223606">IO4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="26.433393"
+         y="-24.28508"
+         id="text4409"
+         sodipodi:linespacing="100%"
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4413"
+           x="26.433393"
+           y="-24.28508">ESP-WROOM-2</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4276"
+         y="65.754066"
+         x="15.711552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4278"
+           sodipodi:role="line"
+           x="15.711552"
+           y="65.754066">GND</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="15.894657"
+         y="72.995132"
+         id="text4280"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4284"
+           x="15.894657"
+           y="72.995132">VIN</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4286"
+         y="72.623611"
+         x="29.133276"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4290"
+           x="29.133276"
+           y="72.623611">VOUT</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4292"
+         y="65.423615"
+         x="30.049292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4294"
+           sodipodi:role="line"
+           x="30.049292"
+           y="65.423615">GND</tspan></text>
+    </g>
+  </g>
+</svg>
