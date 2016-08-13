@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="1.1in"
+   height="0.69999999in"
+   viewBox="0 0 79.20004 50.399997"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="プリント基板.svg">
+  <metadata
+     id="metadata95">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs93" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1339"
+     inkscape:window-height="913"
+     id="namedview91"
+     showgrid="false"
+     inkscape:zoom="4.3703702"
+     inkscape:cx="-14.810429"
+     inkscape:cy="44.521024"
+     inkscape:window-x="241"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="silkscreen"
+     inkscape:label="#silkscreen"
+     transform="translate(-13.257767,0.50521506)">
+    <rect
+       y="-0.14295724"
+       x="13.62004"
+       height="49.675484"
+       width="78.475494"
+       id="rect4240"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.72454005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text5425"
+       y="22.708082"
+       x="-48.829182"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="22.708082"
+         x="-48.829182"
+         id="tspan5427"
+         sodipodi:role="line">DTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-41.611435"
+       y="22.708082"
+       id="text5429"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         y="22.708082"
+         x="-41.611435"
+         id="tspan5433"
+         sodipodi:role="line">RxD</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text5435"
+       y="22.708082"
+       x="-34.41143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="22.708082"
+         x="-34.41143"
+         id="tspan5439"
+         sodipodi:role="line">TxD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-27.237223"
+       y="22.708082"
+       id="text5441"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         y="22.708082"
+         x="-27.237223"
+         id="tspan5445"
+         sodipodi:role="line">VCC</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text5447"
+       y="22.708082"
+       x="-20.007923"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="22.708082"
+         x="-20.007923"
+         id="tspan5451"
+         sodipodi:role="line">CTS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-12.775023"
+       y="22.708082"
+       id="text5453"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         y="22.708082"
+         x="-12.775023"
+         id="tspan5457"
+         sodipodi:role="line">GND</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text5459"
+       y="22.708082"
+       x="-5.5750198"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000119px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="22.708082"
+         x="-5.5750198"
+         id="tspan5463"
+         sodipodi:role="line">RTS</tspan></text>
+  </g>
+  <g
+     id="copper0"
+     transform="translate(-13.257767,0.50521506)">
+    <circle
+       inkscape:label="#connector1pad"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002"
+       cy="46.372883"
+       cx="17.084751"
+       connectorname="DTR"
+       id="connector1pad"
+       r="1.872" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002"
+       cy="39.172886"
+       cx="17.084751"
+       connectorname="RXI"
+       id="connector2pad"
+       r="1.872" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002"
+       cy="31.972885"
+       cx="17.084751"
+       connectorname="TXO"
+       id="connector3pad"
+       r="1.872" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002"
+       cy="24.772884"
+       cx="17.084751"
+       connectorname="POWER"
+       id="connector4pad"
+       r="1.872" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002"
+       cy="17.572886"
+       cx="17.084751"
+       connectorname="CTS"
+       id="connector5pad"
+       r="1.872" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002"
+       cy="10.372885"
+       cx="17.084751"
+       connectorname="GND"
+       id="connector6pad"
+       r="1.872" />
+    <circle
+       r="1.872"
+       id="connector7pad"
+       connectorname="GND"
+       cx="17.084751"
+       cy="3.1679921"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.86400002" />
+  </g>
+  <g
+     id="g35"
+     style="stroke-width:0"
+     transform="translate(-13.257767,0.50521506)">
+    <title
+       id="title37">element:JP1</title>
+    <g
+       id="g39"
+       style="stroke-width:0">
+      <title
+         id="title41">package:1X06</title>
+    </g>
+  </g>
+  <g
+     id="g43"
+     style="stroke-width:0"
+     transform="translate(-13.257767,0.50521506)">
+    <title
+       id="title45">element:U$2</title>
+    <g
+       id="g47"
+       style="stroke-width:0">
+      <title
+         id="title49">package:SFE-NEW-WEBLOGO</title>
+    </g>
+  </g>
+</svg>
