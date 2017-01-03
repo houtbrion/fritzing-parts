@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.70632523in"
+   height="1.5862753in"
+   viewBox="0 0 50.855398 114.21189"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ブリント基板v2.svg">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs133" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1658"
+     inkscape:window-height="972"
+     id="namedview131"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.0043662"
+     inkscape:cx="-51.428884"
+     inkscape:cy="111.73538"
+     inkscape:window-x="1631"
+     inkscape:window-y="173"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4296"
+     transform="translate(8.8052622,0.844153)">
+    <g
+       id="silkscreen">
+      <line
+         class="other"
+         y1="-0.53235406"
+         y2="-0.53235406"
+         x1="-1.4265524"
+         x2="-8.5131607"
+         id="line123"
+         style="stroke:#f0f0f0;stroke-width:0.57599998;stroke-linecap:round" />
+      <line
+         class="other"
+         y1="0.025822558"
+         y2="112.83987"
+         x1="-8.5131617"
+         x2="-8.5131617"
+         id="line125"
+         style="stroke:#f0f0f0;stroke-width:0.57599998;stroke-linecap:round" />
+      <line
+         class="other"
+         y1="113.07971"
+         y2="113.07971"
+         x1="-8.5131607"
+         x2="-1.4265524"
+         id="line127"
+         style="stroke:#f0f0f0;stroke-width:0.57599998;stroke-linecap:round" />
+      <line
+         class="other"
+         y1="-0.0069956714"
+         y2="112.80605"
+         x1="-1.4265524"
+         x2="-1.4265524"
+         id="line129"
+         style="stroke:#f0f0f0;stroke-width:0.57599998;stroke-linecap:round" />
+      <line
+         style="stroke:#f0f0f0;stroke-width:0.57599998;stroke-linecap:round"
+         id="line4635"
+         x2="34.671463"
+         x1="41.75808"
+         y2="-0.55612421"
+         y1="-0.55612421"
+         class="other" />
+      <line
+         style="stroke:#f0f0f0;stroke-width:0.57599992;stroke-linecap:round"
+         id="line4637"
+         x2="34.671459"
+         x1="34.671459"
+         y2="112.83987"
+         y1="0.026825942"
+         class="other" />
+      <line
+         style="stroke:#f0f0f0;stroke-width:0.57599998;stroke-linecap:round"
+         id="line4639"
+         x2="41.75808"
+         x1="34.671463"
+         y2="113.05994"
+         y1="113.05994"
+         class="other" />
+      <line
+         style="stroke:#f0f0f0;stroke-width:0.57599992;stroke-linecap:round"
+         id="line4641"
+         x2="41.75808"
+         x1="41.75808"
+         y2="112.83987"
+         y1="0.026825942"
+         class="other" />
+    </g>
+    <g
+       transform="translate(-7.1158948,65.038003)"
+       id="copper0">
+      <circle
+         connectorname="10"
+         r="1.64693"
+         id="connector16pad"
+         cx="2.1599979"
+         cy="2.1599998"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector16pad" />
+      <circle
+         connectorname="9"
+         r="1.64693"
+         id="connector17pad"
+         cx="2.1599979"
+         cy="-5.0400052"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector17pad" />
+      <circle
+         connectorname="8"
+         r="1.64693"
+         id="connector18pad"
+         cx="2.1599979"
+         cy="-12.24001"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector18pad" />
+      <circle
+         connectorname="7"
+         r="1.64693"
+         id="connector19pad"
+         cx="2.1599979"
+         cy="-19.440014"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector19pad" />
+      <circle
+         connectorname="6"
+         r="1.64693"
+         id="connector15pad"
+         cx="2.1599979"
+         cy="-26.64002"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector15pad" />
+      <circle
+         connectorname="5"
+         r="1.64693"
+         id="connector14pad"
+         cx="2.1599979"
+         cy="-33.840023"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector14pad" />
+      <circle
+         connectorname="4"
+         r="1.64693"
+         id="connector13pad"
+         cx="2.1599979"
+         cy="-41.040028"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector13pad" />
+      <circle
+         connectorname="3"
+         r="1.64693"
+         id="connector12pad"
+         cx="2.1599979"
+         cy="-48.240032"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector12pad" />
+      <circle
+         connectorname="2"
+         r="1.64693"
+         id="connector11pad"
+         cx="2.1599979"
+         cy="-55.440041"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector11pad" />
+      <circle
+         connectorname="1"
+         r="1.64693"
+         id="connector10pad"
+         cx="2.1599979"
+         cy="-62.640045"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector10pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="2.1599998"
+         cx="45.360023"
+         id="connector51pad"
+         r="1.64693"
+         connectorname="10" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-5.0400052"
+         cx="45.360023"
+         id="connector50pad"
+         r="1.64693"
+         connectorname="9" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-12.24001"
+         cx="45.360023"
+         id="connector7pad"
+         r="1.64693"
+         connectorname="8"
+         inkscape:label="#connector7pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-19.440014"
+         cx="45.360023"
+         id="connector6pad"
+         r="1.64693"
+         connectorname="7"
+         inkscape:label="#connector6pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-26.64002"
+         cx="45.360023"
+         id="connector5pad"
+         r="1.64693"
+         connectorname="6"
+         inkscape:label="#connector5pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-33.840023"
+         cx="45.360023"
+         id="connector4pad"
+         r="1.64693"
+         connectorname="5"
+         inkscape:label="#connector4pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-41.040028"
+         cx="45.360023"
+         id="connector3pad"
+         r="1.64693"
+         connectorname="4"
+         inkscape:label="#connector3pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-48.240032"
+         cx="45.360023"
+         id="connector2pad"
+         r="1.64693"
+         connectorname="3"
+         inkscape:label="#connector2pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-55.440041"
+         cx="45.360023"
+         id="connector8pad"
+         r="1.64693"
+         connectorname="2"
+         inkscape:label="#connector8pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="-62.640045"
+         cx="45.360023"
+         id="connector9pad"
+         r="1.64693"
+         connectorname="1"
+         inkscape:label="#connector9pad" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="45.360027"
+         cx="2.1599979"
+         id="connector52pad"
+         r="1.64693"
+         connectorname="10" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="38.160023"
+         cx="2.1599979"
+         id="connector24pad"
+         r="1.64693"
+         connectorname="9" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="30.960018"
+         cx="2.1599979"
+         id="connector23pad"
+         r="1.64693"
+         connectorname="8" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="23.760014"
+         cx="2.1599979"
+         id="connector22pad"
+         r="1.64693"
+         connectorname="7" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="16.560009"
+         cx="2.1599979"
+         id="connector21pad"
+         r="1.64693"
+         connectorname="6" />
+      <circle
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         cy="9.3600044"
+         cx="2.1599979"
+         id="connector20pad"
+         r="1.64693"
+         connectorname="5" />
+      <circle
+         connectorname="10"
+         r="1.64693"
+         id="connector25pad"
+         cx="45.360023"
+         cy="45.360027"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+      <circle
+         connectorname="9"
+         r="1.64693"
+         id="connector28pad"
+         cx="45.360023"
+         cy="38.160023"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+      <circle
+         connectorname="8"
+         r="1.64693"
+         id="connector29pad"
+         cx="45.360023"
+         cy="30.960018"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+      <circle
+         connectorname="7"
+         r="1.64693"
+         id="connector30pad"
+         cx="45.360023"
+         cy="23.760014"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+      <circle
+         connectorname="6"
+         r="1.64693"
+         id="connector0pad"
+         cx="45.360023"
+         cy="16.560009"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector0pad" />
+      <circle
+         connectorname="5"
+         r="1.64693"
+         id="connector1pad"
+         cx="45.360023"
+         cy="9.3600044"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+         inkscape:label="#connector1pad" />
+    </g>
+  </g>
+</svg>
