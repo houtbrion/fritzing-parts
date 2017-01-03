@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.20082641in"
+   height="0.17102507in"
+   viewBox="0 0 14.459501 12.313805"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="共通回路図.svg">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs40" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="6.5555555"
+     inkscape:cx="-26.154786"
+     inkscape:cy="-1.613579"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     x="-0.252"
+     y="3.504"
+     width="0.546"
+     height="0.208"
+     id="connector0terminal"
+     style="fill:none"
+     transform="translate(0.00498487,-0.79533195)" />
+  <g
+     x="-0.252"
+     y="10.704"
+     width="0.546"
+     height="0.208"
+     id="connector1terminal"
+     style="fill:none"
+     transform="translate(0.00498487,-0.79533195)" />
+  <g
+     id="schematic"
+     transform="translate(0.00498487,-0.79533195)">
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       y1="3.5999999"
+       id="connector0pin"
+       x2="7.3460002"
+       x1="0.34999999"
+       y2="3.5999999" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       id="polyline9"
+       points="14.1,5.557,9.928,3.6,14.1,1.643" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       y1="3.5999999"
+       id="line"
+       x2="4.8039999"
+       x1="10.11"
+       y2="3.5999999" />
+    <text
+       style="font-size:2.5px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text12"
+       class="text"
+       font-size="2.5"
+       y="2.5799999"
+       x="5.0500002">1</text>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       y1="10.8"
+       id="connector1pin"
+       x2="7.3460002"
+       x1="0.34999999"
+       y2="10.8" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       id="polyline16"
+       points="14.1,12.757,9.928,10.8,14.1,8.843" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       y1="10.8"
+       id="line18"
+       x2="4.8039999"
+       x1="10.11"
+       y2="10.8" />
+    <text
+       style="font-size:2.5px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text20"
+       class="text"
+       font-size="2.5"
+       y="9.7799997"
+       x="5.0500002">2</text>
+  </g>
+  <g
+     x="-0.252"
+     y="17.904"
+     width="0.546"
+     height="0.208"
+     id="connector2terminal"
+     style="fill:none"
+     transform="translate(0.00498487,-0.79533195)" />
+  <g
+     x="-0.252"
+     y="25.104"
+     width="0.546"
+     height="0.208"
+     id="connector3terminal"
+     style="fill:none"
+     transform="translate(0.00498487,-0.79533195)" />
+</svg>

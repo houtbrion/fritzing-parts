@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7.3562098mm"
+   height="15.36715mm"
+   viewBox="0 0 26.065311 54.450531"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ヨコ型2Pプリント基板.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.38"
+     inkscape:cx="-18.138437"
+     inkscape:cy="16.289288"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1576"
+     inkscape:window-height="965"
+     inkscape:window-x="1707"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-137.19197,-206.42709)">
+    <g
+       id="silkscreen"
+       transform="matrix(0.73562094,0,0,1.5367151,-5.4691514,-99.716767)">
+      <rect
+         y="199.76489"
+         x="194.47816"
+         height="34.342609"
+         width="34.342613"
+         id="rect4155"
+         style="fill:none;fill-opacity:1;stroke:#f4f4f4;stroke-width:1.09046471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="copper0">
+      <circle
+         connectorname="SS"
+         id="connector0pin"
+         cx="145.65912"
+         cy="254.64824"
+         r="2.2139659"
+         style="fill:none;stroke:#9a916c;stroke-width:0.88702941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="fill:none;stroke:#9a916c;stroke-width:0.88702941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="2.2139659"
+         cy="254.64824"
+         cx="154.65912"
+         id="connector1pin"
+         connectorname="SS" />
+    </g>
+  </g>
+</svg>
