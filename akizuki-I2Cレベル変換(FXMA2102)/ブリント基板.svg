@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.41080952in"
+   height="0.33914122in"
+   viewBox="0 0 29.578275 24.418182"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ブリント基板.svg">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs133" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1258"
+     inkscape:window-height="972"
+     id="namedview131"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.2171071"
+     inkscape:cx="-35.369719"
+     inkscape:cy="14.535406"
+     inkscape:window-x="456"
+     inkscape:window-y="70"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="silkscreen"
+     inkscape:label="#silkscreen"
+     transform="matrix(1,0,0,0.41373745,-81.646568,16.427352)">
+    <line
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round"
+       id="line123"
+       x2="82.100677"
+       x1="89.187286"
+       y2="-39.250652"
+       y1="-39.250652"
+       class="other" />
+    <line
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round"
+       id="line125"
+       x2="82.100677"
+       x1="82.100677"
+       y2="18.85965"
+       y1="-39.250652"
+       class="other" />
+    <line
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round"
+       id="line127"
+       x2="89.187286"
+       x1="82.100677"
+       y2="18.85965"
+       y1="18.85965"
+       class="other" />
+    <line
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round"
+       id="line129"
+       x2="89.187286"
+       x1="89.187286"
+       y2="18.85965"
+       y1="-39.250652"
+       class="other" />
+    <line
+       class="other"
+       y1="-39.250652"
+       y2="-39.250652"
+       x1="110.77074"
+       x2="103.68413"
+       id="line4635"
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round" />
+    <line
+       class="other"
+       y1="-39.250652"
+       y2="18.85965"
+       x1="103.68413"
+       x2="103.68413"
+       id="line4637"
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round" />
+    <line
+       class="other"
+       y1="18.85965"
+       y2="18.85965"
+       x1="103.68413"
+       x2="110.77074"
+       id="line4639"
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round" />
+    <line
+       class="other"
+       y1="-39.250652"
+       y2="18.85965"
+       x1="110.77074"
+       x2="110.77074"
+       id="line4641"
+       style="stroke:#f0f0f0;stroke-width:0.89548856;stroke-linecap:round" />
+  </g>
+  <g
+     id="copper0"
+     transform="translate(0.16203758,-0.10421522)">
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="20.843302"
+       cx="3.8353839"
+       id="connector3pad"
+       r="1.64693"
+       connectorname="4" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="15.174003"
+       cx="3.8353839"
+       id="connector2pad"
+       r="1.64693"
+       connectorname="3" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="9.5047026"
+       cx="3.8353839"
+       id="connector1pad"
+       r="1.64693"
+       connectorname="2" />
+    <circle
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997"
+       cy="3.8354132"
+       cx="3.8353839"
+       id="connector0pad"
+       r="1.64693"
+       connectorname="1" />
+    <circle
+       connectorname="4"
+       r="1.64693"
+       id="circle4469"
+       cx="25.420057"
+       cy="20.843302"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+    <circle
+       connectorname="3"
+       r="1.64693"
+       id="circle4471"
+       cx="25.420057"
+       cy="15.174003"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+    <circle
+       connectorname="2"
+       r="1.64693"
+       id="circle4473"
+       cx="25.420057"
+       cy="9.5047026"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+    <circle
+       connectorname="1"
+       r="1.64693"
+       id="circle4475"
+       cx="25.420057"
+       cy="3.8354132"
+       style="fill:none;stroke:#f7bd13;stroke-width:1.02613997" />
+  </g>
+</svg>
