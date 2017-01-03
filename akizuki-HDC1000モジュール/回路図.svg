@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 147.23157 158.91157"
+   height="44.848377mm"
+   width="41.552021mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="回路図.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1355"
+     inkscape:window-height="949"
+     id="namedview31"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.47"
+     inkscape:cx="-3.9274107"
+     inkscape:cy="86.478637"
+     inkscape:window-x="2040"
+     inkscape:window-y="110"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4195"
+     transform="translate(123.53741,129.51133)">
+    <text
+       style="font-size:18px;font-family:DroidSans"
+       id="text5"
+       y="-98.157646"
+       x="-90.260338">Akizuki</text>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="text3200"
+       y="-73.355797"
+       x="-109.64897">
+      <tspan
+         y="-73.355797"
+         x="-109.64897"
+         id="tspan4181"
+         sodipodi:role="line">HDL1000</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="text3206"
+       y="-50.180183"
+       x="-65.629478">
+      <tspan
+         y="-50.180183"
+         x="-65.629478"
+         id="tspan4183"
+         sodipodi:role="line">SIP</tspan>
+    </text>
+    <line
+       x1="1.2170911"
+       y1="1.2001201"
+       x2="22.47707"
+       y2="1.2001201"
+       id="connector1"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.94242394;stroke-linecap:round;stroke-linejoin:round"
+       id="rect135"
+       y="-128.54012"
+       x="-122.5662"
+       height="156.96915"
+       width="121.595" />
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="text9"
+       y="-103.65661"
+       x="-23.863064">
+      <tspan
+         y="-103.65661"
+         x="-23.863064"
+         id="tspan4193"
+         sodipodi:role="line">+V</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="text3208"
+       y="-78.017143"
+       x="-28.447216">
+      <tspan
+         y="-78.017143"
+         x="-28.447216"
+         id="tspan4191"
+         sodipodi:role="line">SDA</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="text3222"
+       y="-51.697418"
+       x="-27.313473">
+      <tspan
+         y="-51.697418"
+         x="-27.313473"
+         id="tspan4189"
+         sodipodi:role="line">SCL</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="text3222-8"
+       y="-24.017149"
+       x="-28.264004">
+      <tspan
+         y="-24.017149"
+         x="-28.264004"
+         id="tspan4187"
+         sodipodi:role="line">RDY</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       x="-29.192944"
+       y="5.0236673"
+       id="text8774"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">
+      <tspan
+         y="5.0236673"
+         x="-29.192944"
+         id="tspan4185"
+         sodipodi:role="line">GND</tspan>
+    </text>
+    <line
+       x1="1.2170911"
+       y1="-25.799879"
+       x2="22.47707"
+       y2="-25.799879"
+       id="connector2"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="1.2170911"
+       y1="-52.799881"
+       x2="22.47707"
+       y2="-52.799881"
+       id="connector3"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="1.2170911"
+       y1="-79.799881"
+       x2="22.47707"
+       y2="-79.799881"
+       id="connector4"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       x1="1.2170911"
+       y1="-106.79989"
+       x2="22.47707"
+       y2="-106.79989"
+       id="connector5"
+       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+</svg>
