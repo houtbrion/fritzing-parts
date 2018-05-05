@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='2.06693in' height='2.06693in' viewBox='0 0 148.819 148.819' >
+<g partID='855115060'><g id="schematic">
+<g transform="matrix(0,-1,1,0,0,0)">
+<rect width="106.299" stroke-opacity="1" id="rect10403" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="1.43427" fill="none" height="85.0394" x="-127.559" y="42.5197"/>
+</g>
+<path d="m21.2598,106.299,21.2598,0" stroke-opacity="1" id="path10445" stroke="#000000" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" stroke-width="2.4" fill="none"/>
+<path d="m21.2598,85.0393,21.2598,0" stroke-opacity="1" id="path10449" stroke="#000000" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" stroke-width="2.4" fill="none"/>
+<path d="m21.2598,63.7795,21.2598,0" stroke-opacity="1" id="path10453" stroke="#000000" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" stroke-width="2.4" fill="none"/>
+<path d="m42.5197,42.5197,-21.2598,0" stroke-opacity="1" id="path10461" stroke="#000000" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" stroke-width="2.4" fill="none"/>
+<g transform="matrix(1, 0, 0, 1, 1.20148e-06, -2.85516e-05)">
+<g xml:space="preserve" fill-opacity="1" id="text10504" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-size="0">
+<text id="tspan10506" x="46.7717" y="45.3543">VDD</text>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.20148e-06, -2.85516e-05)">
+<g xml:space="preserve" fill-opacity="1" id="text10508" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-size="0">
+<text id="tspan10510" x="46.7717" y="66.6425">DATA</text>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.20148e-06, -2.85516e-05)">
+<g xml:space="preserve" fill-opacity="1" id="text10512" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-size="0">
+<text id="tspan10514" x="46.7717" y="87.8741">NULL</text>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 1.20148e-06, -2.85516e-05)">
+<g xml:space="preserve" fill-opacity="1" id="text10516" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-size="0">
+<text id="tspan10518" x="46.7717" y="109.162">GND</text>
+</g>
+</g>
+<rect width="5.66929" id="connector1pin" stroke="none" fill="none" height="5.66929" x="18.4252" y="39.685"/>
+<rect width="5.66929" id="connector2pin" stroke="none" fill="none" height="5.66929" x="18.4252" y="60.9449"/>
+<rect width="5.66929" id="connector3pin" stroke="none" fill="none" height="5.66929" x="18.4252" y="82.2047"/>
+<rect width="5.66929" id="connector4pin" stroke="none" fill="none" height="5.66929" x="18.4252" y="103.465"/>
+<g xml:space="preserve" fill-opacity="1" id="text4619" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:OCR A Std;-inkscape-font-specification:OCR A Std" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-size="0">
+<text id="tspan4621" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" font-size="0" x="99.2126" y="79.3701">DHT11</text>
+</g>
+</g>
+</g></svg>

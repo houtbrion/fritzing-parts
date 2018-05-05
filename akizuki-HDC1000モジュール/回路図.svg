@@ -32,10 +32,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.47"
-     inkscape:cx="-3.9274107"
+     inkscape:cx="-71.168234"
      inkscape:cy="86.478637"
-     inkscape:window-x="2040"
-     inkscape:window-y="110"
+     inkscape:window-x="621"
+     inkscape:window-y="112"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
@@ -52,139 +52,135 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4195"
-     transform="translate(123.53741,129.51133)">
-    <text
-       style="font-size:18px;font-family:DroidSans"
-       id="text5"
-       y="-98.157646"
-       x="-90.260338">Akizuki</text>
-    <text
-       sodipodi:linespacing="125%"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text3200"
-       y="-73.355797"
-       x="-109.64897">
-      <tspan
-         y="-73.355797"
-         x="-109.64897"
-         id="tspan4181"
-         sodipodi:role="line">HDL1000</tspan>
-    </text>
-    <text
-       sodipodi:linespacing="125%"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text3206"
-       y="-50.180183"
-       x="-65.629478">
-      <tspan
-         y="-50.180183"
-         x="-65.629478"
-         id="tspan4183"
-         sodipodi:role="line">SIP</tspan>
-    </text>
-    <line
-       x1="1.2170911"
-       y1="1.2001201"
-       x2="22.47707"
-       y2="1.2001201"
-       id="connector1"
-       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.94242394;stroke-linecap:round;stroke-linejoin:round"
-       id="rect135"
-       y="-128.54012"
-       x="-122.5662"
-       height="156.96915"
-       width="121.595" />
-    <text
-       sodipodi:linespacing="125%"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text9"
-       y="-103.65661"
-       x="-23.863064">
-      <tspan
-         y="-103.65661"
-         x="-23.863064"
-         id="tspan4193"
-         sodipodi:role="line">+V</tspan>
-    </text>
-    <text
-       sodipodi:linespacing="125%"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text3208"
-       y="-78.017143"
-       x="-28.447216">
-      <tspan
-         y="-78.017143"
-         x="-28.447216"
-         id="tspan4191"
-         sodipodi:role="line">SDA</tspan>
-    </text>
-    <text
-       sodipodi:linespacing="125%"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text3222"
-       y="-51.697418"
-       x="-27.313473">
-      <tspan
-         y="-51.697418"
-         x="-27.313473"
-         id="tspan4189"
-         sodipodi:role="line">SCL</tspan>
-    </text>
-    <text
-       sodipodi:linespacing="125%"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text3222-8"
-       y="-24.017149"
-       x="-28.264004">
-      <tspan
-         y="-24.017149"
-         x="-28.264004"
-         id="tspan4187"
-         sodipodi:role="line">RDY</tspan>
-    </text>
-    <text
-       sodipodi:linespacing="125%"
-       x="-29.192944"
-       y="5.0236673"
-       id="text8774"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">
-      <tspan
-         y="5.0236673"
-         x="-29.192944"
-         id="tspan4185"
-         sodipodi:role="line">GND</tspan>
-    </text>
-    <line
-       x1="1.2170911"
-       y1="-25.799879"
-       x2="22.47707"
-       y2="-25.799879"
-       id="connector2"
-       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
-    <line
-       x1="1.2170911"
-       y1="-52.799881"
-       x2="22.47707"
-       y2="-52.799881"
-       id="connector3"
-       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
-    <line
-       x1="1.2170911"
-       y1="-79.799881"
-       x2="22.47707"
-       y2="-79.799881"
-       id="connector4"
-       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
-    <line
-       x1="1.2170911"
-       y1="-106.79989"
-       x2="22.47707"
-       y2="-106.79989"
-       id="connector5"
-       style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
-  </g>
+  <text
+     x="33.277073"
+     y="31.353683"
+     id="text5"
+     style="font-size:18px;font-family:DroidSans">Akizuki</text>
+  <text
+     x="13.888438"
+     y="56.155533"
+     id="text3200"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="125%">
+    <tspan
+       y="56.155533"
+       x="13.888438"
+       sodipodi:role="line"
+       id="tspan4175">HDC1000</tspan>
+  </text>
+  <text
+     x="57.907932"
+     y="79.331146"
+     id="text3206"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4183"
+       x="57.907932"
+       y="79.331146">SIP</tspan>
+  </text>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="connector1"
+     y2="130.71146"
+     x2="146.01448"
+     y1="130.71146"
+     x1="124.7545" />
+  <rect
+     width="121.595"
+     height="156.96915"
+     x="0.97120976"
+     y="0.97121465"
+     id="rect135"
+     style="fill:none;stroke:#000000;stroke-width:1.94242394;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="99.674347"
+     y="25.854721"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4193"
+       x="99.674347"
+       y="25.854721">+V</tspan>
+  </text>
+  <text
+     x="95.090195"
+     y="51.494186"
+     id="text3208"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4191"
+       x="95.090195"
+       y="51.494186">SDA</tspan>
+  </text>
+  <text
+     x="96.223938"
+     y="77.813911"
+     id="text3222"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4189"
+       x="96.223938"
+       y="77.813911">SCL</tspan>
+  </text>
+  <text
+     x="95.273407"
+     y="105.49418"
+     id="text3222-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4187"
+       x="95.273407"
+       y="105.49418">RDY</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+     id="text8774"
+     y="134.535"
+     x="94.344467"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan4185"
+       x="94.344467"
+       y="134.535">GND</tspan>
+  </text>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="connector2"
+     y2="103.71145"
+     x2="146.01448"
+     y1="103.71145"
+     x1="124.7545" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="connector3"
+     y2="76.711449"
+     x2="146.01448"
+     y1="76.711449"
+     x1="124.7545" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="connector4"
+     y2="49.711449"
+     x2="146.01448"
+     y1="49.711449"
+     x1="124.7545" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="connector5"
+     y2="22.711441"
+     x2="146.01448"
+     y1="22.711441"
+     x1="124.7545" />
 </svg>
